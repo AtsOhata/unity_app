@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RandomFlag>true</RandomFlag>
+  <UpperLimitFlag>1</UpperLimitFlag>
+    <QuestionPacks>
+    <QuestionPack>
+      <Alias>JS_Basic_0121</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let a1 = [6,2,3];(改行)console.log(a1.sort());
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>[2,3,6]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>[3,2,6]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0122</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let a1 = [6,2,3];(改行)console.log(a1.sort((a,b) => b - a));
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>[6,3,2]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>[2,3,6]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0123</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let a1 = [1,2,3];(改行)a1.shift();(改行)a1.unshift(3);(改行)console.log(a1);
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>[3,2,3]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>[1,2,3]</string>
+            <string>[3,3,3]</string>
+            <string>[1,2,3,3]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0124</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let a1 = [1,2,3];(改行)a1.unshift(a1.pop());(改行)a1.unshift(a1[1]);(改行)console.log(a1);
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>[1,3,1,2]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>[1,3,1,2,3]</string>
+            <string>[1,3,2]</string>
+            <string>[1]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0125</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let a1 = ["Jan","Feb","Mar"];(改行)console.log(a1.sort().toString());
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>Feb,Jan,Mar</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>FebJanMar</string>
+            <string>JanFebMar</string>
+            <string>Jan,Feb,Mar</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0126</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;ABC&quot;.charCodeAt(2)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>67</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>C</string>
+            <string>%u1</string>
+            <string>u6121</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0127</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            String.fromCharCode(65)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>A</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>a</string>
+            <string>#</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0128</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcdefgh&quot;.indexOf(&quot;ef&quot;,2)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>4</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2</string>
+            <string>5</string>
+            <string>-1</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0129</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcdefgh&quot;.lastIndexOf(&quot;ef&quot;,2)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>-1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>4</string>
+            <string>2</string>
+            <string>5</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0130</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcdefgh&quot;.lastIndexOf(&quot;ef&quot;,100)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>4</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>-1</string>
+            <string>2</string>
+            <string>5</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0131</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcdefgh&quot;.indexOf(&quot;ef&quot;,100)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>-1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>4</string>
+            <string>2</string>
+            <string>5</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0132</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;New York&quot;.length
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>8</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>7</string>
+            <string>9</string>
+            <string>10</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0133</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcdefgh&quot;.match(/..d/)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>bcd</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>..d</string>
+            <string>abcd</string>
+            <string>cd</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0134</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcdefgh&quot;.match(/^../)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>ab</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>abc</string>
+            <string></string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0135</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcdefgh&quot;.match(/e.*$/)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>efgh</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>ef</string>
+            <string>efg</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0136</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcABC&quot;.match(/B/i)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>b</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>B</string>
+            <string></string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0137</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcabbc&quot;.replace(/b{2}/,&quot;B&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>abcaBc</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>aBcaBbc</string>
+            <string>abcabbc</string>
+            <string>abcaBbc</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0138</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abc abcd&quot;.replace(/abc\B/,&quot;Z&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>abc Zd</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Z abcd</string>
+            <string>abc abcd</string>
+            <string>Z Zd</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0139</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abc abcd&quot;.replace(/abc\b/,&quot;Z&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>Z abcd</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>abc Zd</string>
+            <string>abc abcd</string>
+            <string>Z Zd</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0140</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abc abcd&quot;.replace(/abc/g,&quot;Z&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>Z Zd</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Z abcd</string>
+            <string>abc Zd</string>
+            <string>abc abcd</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

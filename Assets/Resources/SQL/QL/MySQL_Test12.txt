@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>MySQL_0221</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ExtractValue(&apos;&lt;c&gt;&lt;d&gt;D&lt;/d&gt;&lt;/c&gt;&apos;,&apos;○○&apos;);(改行)(改行)↓(改行)(改行)D
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>/c/d[1]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>/c[1]</string>
+            <string>/d</string>
+            <string>/d/c[1]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0222</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ExtractValue(&apos;&lt;c&gt;&lt;d/&gt;&lt;d/&gt;&lt;/c&gt;&apos;,&apos;○○&apos;);(改行)(改行)↓(改行)(改行)2
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>count(/c/d)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>count/c/d</string>
+            <string>//d</string>
+            <string>time(/c/d)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0223</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ExtractValue(&apos;&lt;c&gt;&lt;d&gt;C&lt;/d&gt;&lt;d&gt;D&lt;/d&gt;&lt;/c&gt;&apos;,&apos;○○&apos;);(改行)(改行)↓(改行)(改行)C D
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>//d</string>
+            <string>/c/d</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>/d</string>
+            <string>//c</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>2</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0224</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT UpdateXml(&apos;&lt;c&gt;C&lt;d&gt;D&lt;/d&gt;&lt;/c&gt;&apos;,&apos;/c/d&apos;,&apos;&lt;e&gt;E&lt;/e&gt;&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>&lt;c&gt;C&lt;e&gt;E&lt;/e&gt;&lt;/c&gt;</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>&lt;c&gt;C&lt;d&gt;D&lt;/d&gt;&lt;/c&gt;</string>
+            <string>&lt;e&gt;E&lt;/e&gt;</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0225</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT UpdateXml(&apos;&lt;c&gt;C&lt;d&gt;D&lt;/d&gt;&lt;/c&gt;&apos;,&apos;/d&apos;,&apos;&lt;e&gt;E&lt;/e&gt;&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>&lt;c&gt;C&lt;d&gt;D&lt;/d&gt;&lt;/c&gt;</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>&lt;c&gt;C&lt;e&gt;E&lt;/e&gt;&lt;/c&gt;</string>
+            <string>&lt;e&gt;E&lt;/e&gt;</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>MySQL_0001</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            (青)SELECT(/青) ○○ (青)FROM(/青) USER;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>*</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>ALL</string>
+            <string>#</string>
+            <string>$</string>
+            <string>%</string>
+            <string>&amp;</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0002</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            (青)SELECT(/青) ID(改行)(青)FROM(/青) USER(改行)○○ NAME = ...;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>(青)WHERE(/青)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>(青)ON(/青)</string>
+            <string>(青)WITH(/青)</string>
+            <string>(青)CONDITION(/青)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0003</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            (青)INNRE JOIN(/青) ○○ ...;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>(青)ON(/青)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>(青)WHERE(/青)</string>
+            <string>(青)WITH(/青)</string>
+            <string>(青)CONDITION(/青)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0004</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○ TABLE USER( ID INT, NAME VARCHAR(20));
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>(青)CREATE(/青)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>(青)INSERT(/青)</string>
+            <string>(青)MAKE(/青)</string>
+            <string>(青)SELECT(/青)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0005</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            -2147483648 〜 2147483647
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>INT</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>INT UNSIGNED</string>
+            <string>BIGINT</string>
+            <string>BIGINT UNSIGNED</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0006</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            false/true
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>BOOL</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>INT</string>
+            <string>FLAG</string>
+            <string>TINYINT</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0007</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            123.456
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>DECIMAL(6,3)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>TINYINT(6,3)</string>
+            <string>DEC(3)</string>
+            <string>NUMERIC(3)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0008</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            2000-01-01
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>DATE</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>DATETIME</string>
+            <string>TIME</string>
+            <string>YEAR</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0009</Alias>
+      <Image>MySQL_0009</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT * FROM tA ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>CROSS JOIN tB</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>INNER JOIN tB ...</string>
+            <string>JOIN tB ...</string>
+            <string>OUTER JOIN tB ...</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0010</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            INSERT ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>INTO tA VALUES (1)</string>
+            <string>tA VALUES (1)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>tA (1)</string>
+            <string>(1) INTO tA</string>
+            <string>(1) tA</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0011</Alias>
+      <Image>MySQL_0011</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT * FROM tA WHERE ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>cA BETWEEN 30 AND 40</string>
+            <string>cA IN (30, 40)</string>
+            <string>cA > 20 AND cA < 50</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cA >= 20 AND cA < 50</string>
+            <string>cA IN 30 OR 40</string>
+            <string>cA = 30 OR 40</string>
+            <string>cA IN 30, 40</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>2</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0012</Alias>
+      <Image>MySQL_0012</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT * FROM tA ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>ORDER BY cB DESC</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>ORDER BY cA DESC</string>
+            <string>ORDER BY cA ASC</string>
+            <string>ORDER BY cB ASC</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0013</Alias>
+      <Image>MySQL_0013</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT * FROM tA WHERE ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>cB LIKE 'A%'</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cB LIKE '%C'</string>
+            <string>cB LIKE '%A%'</string>
+            <string>cB LIKE '%B'</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0014</Alias>
+      <Image>MySQL_0014</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT * FROM tA WHERE ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>cB LIKE '%A%'</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cB LIKE 'A%'</string>
+            <string>cB LIKE '%C'</string>
+            <string>cB LIKE '%B'</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0015</Alias>
+      <Image>MySQL_0015</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT * FROM tA WHERE ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>cB LIKE '%B'</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cB LIKE '%A%'</string>
+            <string>cB LIKE 'A%'</string>
+            <string>cB LIKE '%C'</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0016</Alias>
+      <Image>MySQL_0016</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT * FROM tA WHERE ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>cA <= 30 AND cB != 'A'</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cA BETWEEN 20 AND 50 AND cB != 'A'</string>
+            <string>cB = 'A' AND cA < 40</string>
+            <string>cB = 'B' AND cA > 20</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0017</Alias>
+      <Image>MySQL_0017</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○ FROM tA;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SELECT DISTINCT cB</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>SELECT DISTINCT *</string>
+            <string>SELECT cB</string>
+            <string>SELECT cB *</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0018</Alias>
+      <Image>MySQL_0018</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            CREATE TABLE ((改行)...(改行)PRIMARY KEY (cA)(改行)...
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>INSERT tA VALUES (105, 'A')</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>INSERT tA VALUES (101, 'E')</string>
+            <string>INSERT tA VALUES (103, 'C')</string>
+            <string>INSERT tA VALUES (104, 'F')</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0019</Alias>
+      <Image>MySQL_0018</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            CREATE TABLE ((改行)...(改行)PRIMARY KEY (cA, cB)(改行)...
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>INSERT tA VALUES (101, 'B')</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>INSERT tA VALUES (102, 'B')</string>
+            <string>INSERT tA VALUES (103, 'C')</string>
+            <string>INSERT tA VALUES (104, 'D')</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0020</Alias>
+      <Image>MySQL_0018</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            CREATE TABLE ((改行)...(改行)CHECK (cA < 200)(改行)...
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>INSERT tA VALUES (199, 'C')</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>INSERT tA VALUES (201, 'B')</string>
+            <string>INSERT tA VALUES (200, 'F')</string>
+            <string>INSERT tA VALUES (1000, 'D')</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

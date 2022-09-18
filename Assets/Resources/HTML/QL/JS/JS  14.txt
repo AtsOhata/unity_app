@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RandomFlag>true</RandomFlag>
+  <UpperLimitFlag>1</UpperLimitFlag>
+    <QuestionPacks>
+    <QuestionPack>
+      <Alias>JS_Basic_0261</Alias>
+      <Image>JS_Basic_0261</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>mouseup</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>click</string>
+            <string>dblclick</string>
+            <string>mousedown</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0262</Alias>
+      <Image>JS_Basic_0262</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>mousedown</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>click</string>
+            <string>dblclick</string>
+            <string>mouseup</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0263</Alias>
+      <Image>JS_Basic_0263</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>cut</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>copy</string>
+            <string>paste</string>
+            <string>delete</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0264</Alias>
+      <Image>JS_Basic_0264</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>copy</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cut</string>
+            <string>paste</string>
+            <string>delete</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0265</Alias>
+      <Image>JS_Basic_0265</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>paste</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cut</string>
+            <string>copy</string>
+            <string>delete</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0266</Alias>
+      <Image>JS_Basic_0266</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <CorrectOrder>dragstart,drag,dragenter,dragover,dragleave,dragend,drop</CorrectOrder>
+          <DummyChoices></DummyChoices>
+          <ChoiceQuantity>7</ChoiceQuantity>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0267</Alias>
+      <Image>JS_Basic_0267</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <CorrectOrder>keydown,keyup</CorrectOrder>
+          <DummyChoices>keypress,key</DummyChoices>
+          <ChoiceQuantity>2</ChoiceQuantity>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0268</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>beforeunload→DOMContentLoaded→load</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>DOMContentLoaded→beforeunload→load</string>
+            <string>load→beforeunload→DOMContentLoaded</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0269</Alias>
+      <Image>JS_Basic_0269</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>Parent:mouseover = 2, Child:mouseover = 1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Parent:mouseover = 1, Child:mouseover = 1</string>
+            <string>Parent:mouseover = 1, Child:mouseover = 2</string>
+            <string>Parent:mouseover = 2, Child:mouseover = 2</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0270</Alias>
+      <Image>JS_Basic_0269</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>Parent:mouseenter = 1, Child:mouseenter = 1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Parent:mouseenter = 2, Child:mouseenter = 1</string>
+            <string>Parent:mouseenter = 1, Child:mouseenter = 2</string>
+            <string>Parent:mouseenter = 2, Child:mouseenter = 2</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0271</Alias>
+      <Image>JS_Basic_0271</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>Parent:mouseout = 3, Child:mouseout = 1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Parent:mouseout = 0, Child:mouseout = 0</string>
+            <string>Parent:mouseout = 0, Child:mouseout = 1</string>
+            <string>Parent:mouseout = 2, Child:mouseout = 2</string>
+            <string>Parent:mouseout = 2, Child:mouseout = 3</string>
+            <string>Parent:mouseout = 1, Child:mouseout = 3</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0272</Alias>
+      <Image>JS_Basic_0271</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>Parent:mouseleave = 0, Child:mouseleave = 1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Parent:mouseleave = 3, Child:mouseleave = 1</string>
+            <string>Parent:mouseleave = 0, Child:mouseleave = 0</string>
+            <string>Parent:mouseleave = 2, Child:mouseleave = 2</string>
+            <string>Parent:mouseleave = 2, Child:mouseleave = 3</string>
+            <string>Parent:mouseleave = 1, Child:mouseleave = 3</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0273</Alias>
+      <Image>JS_Basic_0273</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>resize event</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>scroll event</string>
+            <string>select event</string>
+            <string>screenorientation.change event</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0274</Alias>
+      <Image>JS_Basic_0274</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>scroll event</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>resize event</string>
+            <string>select event</string>
+            <string>screenorientation.change event</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0275</Alias>
+      <Image>JS_Basic_0275</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <CorrectChoicePool>
+            <string>select event</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>resize event</string>
+            <string>scroll event</string>
+            <string>screenorientation.change event</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

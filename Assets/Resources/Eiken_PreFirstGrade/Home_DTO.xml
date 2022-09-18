@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Home_DTO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Parts>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>無作為選出Ａ</string>
+        <string>無作為選出Ａ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ａ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その１</string>
+        <string>Eiken_PreFirstGrade_A_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ａ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その２</string>
+        <string>Eiken_PreFirstGrade_A_2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ａ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その３</string>
+        <string>Eiken_PreFirstGrade_A_3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ａ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その４</string>
+        <string>Eiken_PreFirstGrade_A_4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ａ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その５</string>
+        <string>Eiken_PreFirstGrade_A_5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ａ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その６</string>
+        <string>Eiken_PreFirstGrade_A_6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>無作為選出Ｂ</string>
+        <string>無作為選出Ｂ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｂ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その１</string>
+        <string>Eiken_PreFirstGrade_B_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｂ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その２</string>
+        <string>Eiken_PreFirstGrade_B_2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｂ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その３</string>
+        <string>Eiken_PreFirstGrade_B_3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｂ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その４</string>
+        <string>Eiken_PreFirstGrade_B_4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｂ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その５</string>
+        <string>Eiken_PreFirstGrade_B_5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｂ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その６</string>
+        <string>Eiken_PreFirstGrade_B_6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>無作為選出Ｃ</string>
+        <string>無作為選出Ｃ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｃ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その１</string>
+        <string>Eiken_PreFirstGrade_C_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｃ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その２</string>
+        <string>Eiken_PreFirstGrade_C_2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｃ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その３</string>
+        <string>Eiken_PreFirstGrade_C_3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｃ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その４</string>
+        <string>Eiken_PreFirstGrade_C_4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｃ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その５</string>
+        <string>Eiken_PreFirstGrade_C_5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｃ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その６</string>
+        <string>Eiken_PreFirstGrade_C_6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>無作為選出Ｄ</string>
+        <string>無作為選出Ｄ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｄ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その１</string>
+        <string>Eiken_PreFirstGrade_D_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｄ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その２</string>
+        <string>Eiken_PreFirstGrade_D_2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｄ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その３</string>
+        <string>Eiken_PreFirstGrade_D_3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｄ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その４</string>
+        <string>Eiken_PreFirstGrade_D_4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｄ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その５</string>
+        <string>Eiken_PreFirstGrade_D_5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｄ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その６</string>
+        <string>Eiken_PreFirstGrade_D_6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>無作為選出Ｅ</string>
+        <string>無作為選出Ｅ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｅ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｅ その１</string>
+        <string>Eiken_PreFirstGrade_E_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>無作為選出Ｅ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｅ その２</string>
+        <string>Eiken_PreFirstGrade_E_2</string>
+      </Values>
+    </Part>
+  </Parts>
+</Home_DTO>

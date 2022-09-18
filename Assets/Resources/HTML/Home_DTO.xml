@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Home_DTO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CurrentScreenName>QB選択</CurrentScreenName>
+  <ScreenConfigs>
+    <ScreenConfig>
+      <ScreenName>QB選択</ScreenName>
+      <ScreenType>1</ScreenType>
+    </ScreenConfig>
+    <ScreenConfig>
+      <ScreenName>HTMLQB</ScreenName>
+      <ScreenType>1</ScreenType>
+    </ScreenConfig>
+    <ScreenConfig>
+      <ScreenName>CSSQB</ScreenName>
+      <ScreenType>1</ScreenType>
+    </ScreenConfig>
+    <ScreenConfig>
+      <ScreenName>JSQB</ScreenName>
+      <ScreenType>1</ScreenType>
+    </ScreenConfig>
+  </ScreenConfigs>
+  <Parts>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>HTML</string>
+        <string>HTMLQB</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>HTMLQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>HTML  1</string>
+        <string>HTML/HTML  1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>HTMLQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>HTML  2</string>
+        <string>HTML/HTML  2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>HTMLQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>HTML  3</string>
+        <string>HTML/HTML  3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>HTMLQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>HTML  4</string>
+        <string>HTML/HTML  4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>HTMLQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>HTML  5</string>
+        <string>HTML/HTML  5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>HTMLQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>HTML  6</string>
+        <string>HTML/HTML  6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>HTMLQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>HTML  7</string>
+        <string>HTML/HTML  7</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>CSS</string>
+        <string>CSSQB</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>CSSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>CSS  1</string>
+        <string>CSS/CSS  1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>CSSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>CSS  2</string>
+        <string>CSS/CSS  2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>CSSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>CSS  3</string>
+        <string>CSS/CSS  3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>CSSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>CSS  4</string>
+        <string>CSS/CSS  4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>CSSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>CSS  5</string>
+        <string>CSS/CSS  5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>CSSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>CSS  6</string>
+        <string>CSS/CSS  6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>CSSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>CSS  7</string>
+        <string>CSS/CSS  7</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>CSSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>CSS  8</string>
+        <string>CSS/CSS  8</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>JS</string>
+        <string>JSQB</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  1</string>
+        <string>JS/JS  1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  2</string>
+        <string>JS/JS  2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  3</string>
+        <string>JS/JS  3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  4</string>
+        <string>JS/JS  4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  5</string>
+        <string>JS/JS  5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  6</string>
+        <string>JS/JS  6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  7</string>
+        <string>JS/JS  7</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  8</string>
+        <string>JS/JS  8</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  9</string>
+        <string>JS/JS  9</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  10</string>
+        <string>JS/JS  10</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  11</string>
+        <string>JS/JS  11</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  12</string>
+        <string>JS/JS  12</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  13</string>
+        <string>JS/JS  13</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>JSQB</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>JS  14</string>
+        <string>JS/JS  14</string>
+      </Values>
+    </Part>
+  </Parts>
+</Home_DTO>

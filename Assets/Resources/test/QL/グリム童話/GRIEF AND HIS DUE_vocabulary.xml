@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>Jupiter</Question>
+          <Answer>ジュピター(神の名前)</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>assign</Question>
+          <Answer>割り当てる</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>various</Question>
+          <Answer>さまざまな</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>god</Question>
+          <Answer>神</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>privilege</Question>
+          <Answer>特権</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>happen</Question>
+          <Answer>起こる</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>Grief</Question>
+          <Answer>悲嘆(ここでは悲しみの神)</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>be present</Question>
+          <Answer>出席している</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>the rest</Question>
+          <Answer>残りの(もの、人)</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>receive</Question>
+          <Answer>受け取る</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>share</Question>
+          <Answer>分け前</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>enter</Question>
+          <Answer>入る</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>claim</Question>
+          <Answer>要求する</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>due</Question>
+          <Answer>取り分</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>be at a loss</Question>
+          <Answer>途方に暮れて</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>leave</Question>
+          <Answer>(余りとして)残す(過去形left)</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>however</Question>
+          <Answer>しかしながら</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>at last</Question>
+          <Answer>結局</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>decide</Question>
+          <Answer>決める</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>belong to</Question>
+          <Answer>～に属する</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>tear</Question>
+          <Answer>涙</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>shed</Question>
+          <Answer>(血・涙)流す</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>dead</Question>
+          <Answer>死んだ人</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>thus</Question>
+          <Answer>かくして</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>the same</Question>
+          <Answer>同じ</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>other</Question>
+          <Answer>他の</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>devoutly</Question>
+          <Answer>信心深く</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>man</Question>
+          <Answer>人</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>render</Question>
+          <Answer>与える</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>lavish</Question>
+          <Answer>気前の良い</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>bestow</Question>
+          <Answer>授ける</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>well</Question>
+          <Answer>we will</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>therefore</Question>
+          <Answer>それゆえ</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>mourn</Question>
+          <Answer>嘆く</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>long</Question>
+          <Answer>永く</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>the departed</Question>
+          <Answer>死者</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>else</Question>
+          <Answer>さもないと</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>sole</Question>
+          <Answer>唯一の</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>pleasure</Question>
+          <Answer>楽しみ</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>such</Question>
+          <Answer>そんな</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>quick</Question>
+          <Answer>素早い</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>send</Question>
+          <Answer>送る</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>fresh</Question>
+          <Answer>新たな</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>cause</Question>
+          <Answer>原因</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

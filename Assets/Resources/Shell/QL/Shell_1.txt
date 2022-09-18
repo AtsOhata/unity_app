@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OrderFlag>true</OrderFlag>
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>テスト説明1</Alias>
+      <ReadingMaterial>シェルと聞いて(改行)ああ、あのなんか週一で動いたりするあれね(改行)とか(改行)読んだことはあるけど書いたことはないや(改行)とか(改行)書いたことはあるけどどう書くか忘れちゃったな……(改行)という経験はありませんか？(改行)(改行)本アプリではシェルの基本を「反復」して覚えこむことに重点をおいているため、練習が豊富です</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>テスト説明2</Alias>
+      <ReadingMaterial>(赤)シェル(/赤)とは人間が書いた(赤)コマンド(/赤)(例えばcalとか)を機械語に翻訳して機械に命令するインターフェースです(改行)(改行)ちなみにインターフェースとは、この場合は「人間と機械を接続するもの」という意味です(改行)早い話通訳みたいなものです</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>テスト説明3</Alias>
+      <ReadingMaterial>シェルには「対話モード」と「バッチモード」があります(改行)「バッチモード」だと条件文などの複雑な構文が実行できます</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>テスト説明4</Alias>
+      <ReadingMaterial>比較(改行)(改行)一般的なプログラミング言語と比べると、「紋切り動作を少ない行数で実行する」ことに長けています(改行)(改行)逆に柔軟なプログラムは他のプログラミング言語で行います</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>テスト説明5</Alias>
+      <ReadingMaterial>シェルを動かすためにはあることでしょう(改行)本アプリでは力及ばずその手順等は記しませんがなんとかググって入れてみてください</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

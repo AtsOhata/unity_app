@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <ReadingMaterial>
+        A certain man had several Sons who were always quarrelling with one another, and, try as he might, he could not get them to live together in harmony. So he determined to convince them of their folly by the following means. Bidding them fetch a bundle of sticks, he invited each in turn to break it across his knee. All tried and all failed: and then he undid the bundle, and handed them the sticks one by one, when they had no difficulty at all in breaking them. "There, my boys," said he, "united you will be more than a match for your enemies: but if you quarrel and separate, your weakness will put you at the mercy of those who attack you."
+      </ReadingMaterial>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            父親が息子たちに伝えたかったことは何か？
+          </Question>
+          <CorrectChoicePool>
+            <string>協力することが大切である</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>敵と戦い抜くことが大切である</string>
+            <string>挑戦することが大事である</string>
+            <string>弱さは強さである</string>
+          </WrongChoicePool>
+          <CorrectChoiceCount>
+            1
+          </CorrectChoiceCount>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>
+
+

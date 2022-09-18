@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Home_DTO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Parts>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>ロシア語単語</string>
+        <string>ロシア語単語</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ロシア語単語</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>名詞</string>
+        <string>Russian_Noun1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ロシア語単語</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>形容詞</string>
+        <string>Russian_Adjective1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ロシア語単語</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>動詞</string>
+        <string>Russian_Verb1</string>
+      </Values>
+    </Part>
+  </Parts>
+</Home_DTO>

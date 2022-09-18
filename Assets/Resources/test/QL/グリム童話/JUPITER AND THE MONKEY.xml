@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <ReadingMaterial>
+        Jupiter issued a proclamation to all the beasts, and offered a prize to the one who, in his judgment, produced the most beautiful offspring. Among the rest came the Monkey, carrying a baby monkey in her arms, a hairless, flat-nosed little fright. When they saw it, the gods all burst into peal on peal of laughter; but the Monkey hugged her little one to her, and said, "Jupiter may give the prize to whomsoever he likes: but I shall always think my baby the most beautiful of them all."
+      </ReadingMaterial>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            この話が伝えたいことは何か
+          </Question>
+          <CorrectChoicePool>
+            <string>わが子が一番かわいいものだ</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>サルはかわいくない</string>
+            <string>うぬぼれてはいけない</string>
+            <string>サルはきらわれものだ</string>
+          </WrongChoicePool>
+          <CorrectChoiceCount>
+            1
+          </CorrectChoiceCount>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>
+
+

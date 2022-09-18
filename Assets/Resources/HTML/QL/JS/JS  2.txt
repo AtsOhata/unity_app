@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RandomFlag>true</RandomFlag>
+  <UpperLimitFlag>1</UpperLimitFlag>
+    <QuestionPacks>
+    <QuestionPack>
+      <Alias>JS_Basic_0021</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let b = 2;(改行)const c = 3;(改行)if (true){(改行)b = 5;(改行)c = 6(改行)}(改行)document.write(b);(改行)document.write(c);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string></string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>23</string>
+            <string>26</string>
+            <string>56</string>
+            <string>53</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0022</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <Question>
+            ○○{(改行)  △△ &quot;e1&quot;;(改行)}(改行)□□(e){(改行)  if(e == &quot;e1&quot;){alert(...);}(改行)}(改行)☆☆{(改行)...(改行)}
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectOrder>try,throw,catch,finally</CorrectOrder>
+          <DummyChoices>throws</DummyChoices>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0023</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            function check(n){ if(n &lt; 0 || n &gt; 10){throw new ○○(&quot;msg&quot;);}(改行)try{ check(20); }(改行)catch(e){ if(e instanceof ○○){...}}
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>RangeError</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>ReferenceError</string>
+            <string>SyntaxError</string>
+            <string>URIError</string>
+            <string>TypeError</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0024</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            try{document.write(x);}(改行)catch(e){(改行)if(e instanceof ○○){document.write("error");}}(改行)(改行)↓(改行)(改行)error
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>ReferenceError</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>RangeError</string>
+            <string>SyntaxError</string>
+            <string>URIError</string>
+            <string>TypeError</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0025</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            try{let a = &quot;A&quot;;(改行)if(true){document.Write(a);}(改行)}(改行)catch(e){ if(e instanceof ○○){document.write("error";}}(改行)(改行)↓(改行)(改行)error
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>TypeError</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>ReferenceError</string>
+            <string>RangeError</string>
+            <string>SyntaxError</string>
+            <string>URIError</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0026</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            add = ○○;(改行)document.write(add(2,4));
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>new Function(&quot;a&quot;,&quot;b&quot;,&quot;return a+b;&quot;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>new function(&quot;return a+b;&quot;,&quot;a&quot;,&quot;b&quot;)</string>
+            <string>new Function(&quot;return a+b;&quot;)</string>
+            <string>new function(&quot;a&quot;,&quot;b&quot;,&quot;return a+b;&quot;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0027</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            class cA{(改行)○○{ this.id = 101; }(改行)}(改行)const c1 = new cA();(改行)document.write(c1.id);(改行)(改行)↓(改行)(改行)101
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>constructor();</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>bind()</string>
+            <string>instance()</string>
+            <string>init()</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0028</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const c = {c1:1, c2:2};(改行)f = function(){return this.c1 + this.c2;}(改行)console.log(f.bind(c));
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>f(){return this.c1 + this.c2;}</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>3</string>
+            <string>error</string>
+            <string>NaN</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0029</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const c = {c1:1, c2:2};(改行)f = function(){return this.c1 + this.c2;}(改行)console.log(f.bind(c)());
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>3</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>f(){return this.c1 + this.c2;}</string>
+            <string>error</string>
+            <string>NaN</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0030</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let obj = { id : 22, name : abc};(改行)console.log(obj.id);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>error</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>null</string>
+            <string>22</string>
+            <string>abc</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0031</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let obj = new Object(&quot;a&quot;);(改行)document.write(obj);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>a</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>null</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0032</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let arr = [1,2,3];(改行)let i = arr.entries();(改行)while(true){(改行)  let v = i.next();(改行)  if(v.done){break;}(改行)document.write(v.value);(改行)}
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>0,11,22,3</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>1,2,3</string>
+            <string>01,12,23</string>
+            <string>1,12,23,3</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0033</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let obj = [1];(改行)document.write(obj.constructor);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>function Array() { [native code] }</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>function Array() {}</string>
+            <string>function Integer() { [native code] }</string>
+            <string>function Integer() {}</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0034</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            function cA(id){this.id = id;}(改行)let obj = new cA(200);(改行)console.log(obj instanceof Object);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>true</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>false</string>
+            <string>null</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0035</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const cA = {id1:1,id2:2}(改行)const c1 = Object.create(cA);(改行)c1.id1 = 3;(改行)console.log(c1.id1);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>3</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>1</string>
+            <string>2</string>
+            <string>error</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0036</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let cA = {A:1}(改行)○○(改行)cA.A = 2;(改行)console.log(cA.A);(改行)(改行)↓(改行)(改行)1
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>Object.freeze(cA);</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Object.stop(cA);</string>
+            <string>Object.close(cA);</string>
+            <string>delete cA;</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0037</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let cA = {A:1}(改行)Object.defineProperty(cA, "A", ○○);(改行)cA.A = 2;(改行)console.log(cA.A);(改行)(改行)↓(改行)(改行)1
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>{writable:false}</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>{value:false}</string>
+            <string>{configurable:false}</string>
+            <string>{enumerable:false}</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0038</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let cA = {A:1,B:2,C:3}(改行)Object.defineProperty(cA, "B", ○○);(改行)for(let property in cA){console.log(`${property}:${cA[property]}`)};
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>{enumerable:false}</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>{writable:false}</string>
+            <string>{value:false}</string>
+            <string>{configurable:false}</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0039</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let cA = {A:1}(改行)let prop = Object.getOwnPropertyDescriptor(cA, &apos;A&apos;);(改行)console.log(prop.value + &quot;:&quot; + prop.set + &quot;:&quot; + prop.get);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>1:undefined:undefined</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>1:true:true</string>
+            <string>1:false:false</string>
+            <string>NaN</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0040</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let cA = {A:1}(改行)let d = new Date();(改行)let s = new String();(改行)console.log(cA.valueOf()+":"+d.valueOf()+":"s.value());
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>[object Object]:1638315920316:</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>[object Object]::</string>
+            <string>[object Object]:Date():String()</string>
+            <string>[object Object]:1638315920316:String()</string>
+            <string>NaN</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

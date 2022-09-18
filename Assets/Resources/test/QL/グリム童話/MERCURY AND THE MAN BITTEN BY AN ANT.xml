@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <ReadingMaterial>
+        A Man once saw a ship go down with all its crew, and commented severely on the injustice of the gods. "They care nothing for a man's character," said he, "but let the good and the bad go to their deaths together." There was an ant-heap close by where he was standing, and, just as he spoke, he was bitten in the foot by an Ant. Turning in a temper to the ant-heap he stamped upon it and crushed hundreds of unoffending ants. Suddenly Mercury appeared, and belaboured him with his staff, saying as he did so, "You villain, where's your nice sense of justice now?"
+      </ReadingMaterial>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            この話が伝えたいことはなにか
+          </Question>
+          <CorrectChoicePool>
+            <string>少数の悪い人のために集団全体を悪者と見てはならない</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>強い者の怒りを買うと仲間全員がひどい目に合う</string>
+            <string>強い者ほど弱者のことを軽視する</string>
+            <string>公正の感覚は場合によって異なる</string>
+          </WrongChoicePool>
+          <CorrectChoiceCount>
+            1
+          </CorrectChoiceCount>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>
+
+
+

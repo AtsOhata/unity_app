@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Home_DTO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Parts>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>シェル練習</string>
+        <string>シェルQL選択</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>シェルQL選択</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>はじめに</string>
+        <string>Shell_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>シェルQL選択</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>まず作ってみる</string>
+        <string>Shell_2</string>
+      </Values>
+    </Part>
+  </Parts>
+</Home_DTO>

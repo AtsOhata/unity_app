@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RandomFlag>true</RandomFlag>
+  <UpperLimitFlag>1</UpperLimitFlag>
+    <QuestionPacks>
+    <QuestionPack>
+      <Alias>CSS_Basic_0101</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            overflow-x: ○○;(改行)overflow-y: ○○;(改行)overflow: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>auto</string>
+            <string>visible</string>
+            <string>hidden</string>
+            <string>scroll</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>show</string>
+            <string>lock</string>
+            <string>none</string>
+            <string>normal</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            2
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            2
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0102</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            outline-style: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>none</string>
+            <string>dotted</string>
+            <string>dashed</string>
+            <string>solid</string>
+            <string>double</string>
+            <string>groove</string>
+            <string>ridge</string>
+            <string>inset</string>
+            <string>outset</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>normal</string>
+            <string>repeat</string>
+            <string>slash</string>
+            <string>line</string>
+            <string>5px</string>
+            <string>round</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            3
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            1
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0103</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            outline-width: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>thin</string>
+            <string>medium</string>
+            <string>thick</string>
+            <string>5px</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>none</string>
+            <string>normal</string>
+            <string>default</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            3
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            1
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0104</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            outline: ○○...;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>-style -width -color</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>-width -style -color -offset</string>
+            <string>-position -color</string>
+            <string>-width -height -style -color</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0105</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            resize: ○○...;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>none</string>
+            <string>both</string>
+            <string>horizontal</string>
+            <string>vertical</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>resizable</string>
+            <string>allow</string>
+            <string>prohibit</string>
+            <string>double</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0106</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            display: ○○...;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>inline</string>
+            <string>block</string>
+            <string>inline-block</string>
+            <string>none</string>
+            <string>list-item</string>
+            <string>table</string>
+            <string>inline-table</string>
+            <string>table-row-group</string>
+            <string>table-header-group</string>
+            <string>table-footer-group</string>
+            <string>table-row</string>
+            <string>table-column-group</string>
+            <string>table-column</string>
+            <string>table-cell</string>
+            <string>table-caption</string>
+            <string>inherit</string>
+            <string>run-in</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>inline-box</string>
+            <string>table-inline</string>
+            <string>normal</string>
+            <string>wide</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            3
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            1
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0107</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            float: ○○...;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>none</string>
+            <string>left</string>
+            <string>right</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>auto</string>
+            <string>upper</string>
+            <string>both</string>
+            <string>lower</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            2
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            1
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0108</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            clear: ○○...;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>none</string>
+            <string>left</string>
+            <string>right</string>
+            <string>both</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>auto</string>
+            <string>upper</string>
+            <string>lower</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>1</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0109</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            position: ○○...;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>static</string>
+            <string>relative</string>
+            <string>absolute</string>
+            <string>fixed</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>auto</string>
+            <string>normal</string>
+            <string>none</string>
+            <string>stabilized</string>
+            <string>free</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>3</PlayerChooseQuantity>
+          <WrongChoiceCount>1</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0110</Alias>
+      <Image>CSS_Basic_0110</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            .red_box{(改行)z-index: ○; ...(改行)}(改行) .blue_box{(改行)z-index: △; ...(改行)}
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>○=2, △=1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>○=1, △=2</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>1</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0111</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            visibility: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>visible</string>
+            <string>hidden</string>
+            <string>collapse</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>auto</string>
+            <string>normal</string>
+            <string>none</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>1</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0112</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            table-layout: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>auto</string>
+            <string>fixed</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>normal</string>
+            <string>none</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>2</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0113</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            border-collapse: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>separate</string>
+            <string>collapse</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>fixed</string>
+            <string>auto</string>
+            <string>normal</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>1</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0114</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            empty-cells: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>show</string>
+            <string>hide</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>empty</string>
+            <string>none</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>1</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0115</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            caption-side: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>top</string>
+            <string>bottom</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>left</string>
+            <string>right</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>1</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0116</Alias>
+      <Image>CSS_Basic_0116</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            HTML(改行)(改行)&lt;ul&gt;(改行)  &lt;li&gt;AA&lt;/li&gt;(改行)...
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>list-style-type: upper-roman;</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>list-style-type: roman;</string>
+            <string>list-style-type: capital-roman;</string>
+            <string>list-style: upper-roman;</string>
+            <string>list-style: capital-roman;</string>
+            <string>list-style: roman;</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0117</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            list-style-position: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>outside</string>
+            <string>inside</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>in</string>
+            <string>out</string>
+            <string>left</string>
+            <string>right</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>2</PlayerChooseQuantity>
+          <WrongChoiceCount>2</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0118</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            list-style: ○○;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>-type -position -image</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>-type -position -source</string>
+            <string>-type -position -url</string>
+            <string>-type -position</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0119</Alias>
+      <Image>CSS_Basic_0119</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            .a:after{(改行)    ○○: "→";(改行)}(改行)(改行)HTML(改行)&lt;div class=&quot;a&quot;&gt;Go&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>content</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>after</string>
+            <string>quotes</string>
+            <string>quote</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0120</Alias>
+      <Image>CSS_Basic_0120</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            .rank li{(改行)    ○○(改行)}(改行).rank li:: before{(改行)content: counter(x);(改行)}
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>counter-increment: x 2;</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>counter: 2n;</string>
+            <string>increment: 2n;</string>
+            <string>increment: x 2;</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

@@ -1,0 +1,2805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+  <QuestionPack>
+<Alias>intolerant</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                intolerant
+              </Question>
+              <CorrectChoicePool>
+                <string>（狭量で）我慢できない</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>倒れ木</string>
+                <string>実行可能な</string>
+                <string>～をしぶる</string>
+                <string>まれな</string>
+                <string>ぐずぐずする</string>
+                <string>人を見下すような</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>insignia</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                insignia
+              </Question>
+              <CorrectChoicePool>
+                <string>記章</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>最後の対決</string>
+                <string>回りくどい</string>
+                <string>頂点</string>
+                <string>昇進</string>
+                <string>議会</string>
+                <string>即座の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>haggle</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                haggle
+              </Question>
+              <CorrectChoicePool>
+                <string>値切る</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～を分析する</string>
+                <string>世襲的君主</string>
+                <string>（いつわりの）外見</string>
+                <string>影響されやすい</string>
+                <string>従順な</string>
+                <string>～をじっくり考える</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>residual</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                residual
+              </Question>
+              <CorrectChoicePool>
+                <string>残りの</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>曖昧な</string>
+                <string>汚染する</string>
+                <string>～を解読する</string>
+                <string>座礁する</string>
+                <string>～に着手する</string>
+                <string>遺伝する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>longevity</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                longevity
+              </Question>
+              <CorrectChoicePool>
+                <string>長寿</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>過剰の</string>
+                <string>（大脳）皮質</string>
+                <string>隠遁者</string>
+                <string>追い払う</string>
+                <string>追放された人</string>
+                <string>重苦しい</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>submissive</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                submissive
+              </Question>
+              <CorrectChoicePool>
+                <string>従順な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>誇示する（みせびらかす）</string>
+                <string>（～について）熟考する</string>
+                <string>触媒</string>
+                <string>嫌悪感</string>
+                <string>ぺてん師</string>
+                <string>堕落</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>queasy</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                queasy
+              </Question>
+              <CorrectChoicePool>
+                <string>吐き気がする</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>（～を）ちょきんと切り取る</string>
+                <string>静止した</string>
+                <string>開催地</string>
+                <string>～を分析する</string>
+                <string>（調和した）関係</string>
+                <string>林冠</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>dissect</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                dissect
+              </Question>
+              <CorrectChoicePool>
+                <string>～を分析する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～に懇願する</string>
+                <string>肥料</string>
+                <string>満期になる</string>
+                <string>～で顕著な</string>
+                <string>催眠術をかける</string>
+                <string>風味</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>kindred</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                kindred
+              </Question>
+              <CorrectChoicePool>
+                <string>同種の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>残骸</string>
+                <string>複雑な</string>
+                <string>推薦する</string>
+                <string>立証</string>
+                <string>骨の折れる</string>
+                <string>公益</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>evict</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                evict
+              </Question>
+              <CorrectChoicePool>
+                <string>立ち退かせる</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>従順な</string>
+                <string>火をつける</string>
+                <string>有頂天の</string>
+                <string>いが（植物の）</string>
+                <string>就任（式）</string>
+                <string>推薦する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>venerable</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                venerable
+              </Question>
+              <CorrectChoicePool>
+                <string>尊敬すべき</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>必ず</string>
+                <string>禁酒</string>
+                <string>明白な</string>
+                <string>退屈な</string>
+                <string>信管を取り除く</string>
+                <string>を混乱させる（予期せず）（論破する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>condescending</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                condescending
+              </Question>
+              <CorrectChoicePool>
+                <string>人を見下すような</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～を大量に殺す</string>
+                <string>不屈の精神</string>
+                <string>精算する</string>
+                <string>義務的な</string>
+                <string>非常に貴重な</string>
+                <string>林冠</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>superfluous</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                superfluous
+              </Question>
+              <CorrectChoicePool>
+                <string>過剰の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>基本的な構成要素</string>
+                <string>ぐずぐずする</string>
+                <string>不規則に変動する</string>
+                <string>～で顕著な</string>
+                <string>燃費の悪い車</string>
+                <string>分派</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>aptitude</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                aptitude
+              </Question>
+              <CorrectChoicePool>
+                <string>適性</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～を根絶する</string>
+                <string>主張</string>
+                <string>心を打つ</string>
+                <string>公平</string>
+                <string>派閥</string>
+                <string>診断する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>pedestrian</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                pedestrian
+              </Question>
+              <CorrectChoicePool>
+                <string>徒歩の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>仮定した</string>
+                <string>思春期の</string>
+                <string>悪性の</string>
+                <string>強い憎しみ</string>
+                <string>埋め込まれた</string>
+                <string>気質</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>conceit</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                conceit
+              </Question>
+              <CorrectChoicePool>
+                <string>うぬぼれ</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>霊長類</string>
+                <string>風味</string>
+                <string>～に損害を与える</string>
+                <string>なだめる</string>
+                <string>見え透いた</string>
+                <string>食用に適した</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>invariably</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                invariably
+              </Question>
+              <CorrectChoicePool>
+                <string>必ず</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>慰め</string>
+                <string>星座</string>
+                <string>公衆衛生</string>
+                <string>鋭い</string>
+                <string>禁酒</string>
+                <string>見え透いた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>innate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                innate
+              </Question>
+              <CorrectChoicePool>
+                <string>生来の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>心を打つ</string>
+                <string>広範な</string>
+                <string>広がる</string>
+                <string>工夫に富んだ</string>
+                <string>堕落</string>
+                <string>略奪する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>momentous</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                momentous
+              </Question>
+              <CorrectChoicePool>
+                <string>重大な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>石のように固い</string>
+                <string>国外追放</string>
+                <string>統合</string>
+                <string>突然発生する</string>
+                <string>～を引き起こす</string>
+                <string>有害な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>stagger</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                stagger
+              </Question>
+              <CorrectChoicePool>
+                <string>よろめく</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>統計的に</string>
+                <string>（～において）優れている（～において）に勝る</string>
+                <string>灌漑</string>
+                <string>報復する</string>
+                <string>拒否権を行使する</string>
+                <string>（～に）依存する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>veto</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                veto
+              </Question>
+              <CorrectChoicePool>
+                <string>拒否権を行使する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>苦痛</string>
+                <string>不満</string>
+                <string>人を見下すような</string>
+                <string>水力学の</string>
+                <string>熟考する</string>
+                <string>欠陥</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>scrutiny</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                scrutiny
+              </Question>
+              <CorrectChoicePool>
+                <string>精密調査</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>公衆衛生</string>
+                <string>悲惨な</string>
+                <string>～に着手する</string>
+                <string>ひどく負かす</string>
+                <string>即座の</string>
+                <string>矛盾している</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>excel</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                excel
+              </Question>
+              <CorrectChoicePool>
+                <string>（～において）優れている（～において）に勝る</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>障害物</string>
+                <string>隣接する</string>
+                <string>特質</string>
+                <string>経験する</string>
+                <string>通俗な</string>
+                <string>略奪する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>gloat</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                gloat
+              </Question>
+              <CorrectChoicePool>
+                <string>ほくそ笑む</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>極貧の</string>
+                <string>あり得る</string>
+                <string>派閥</string>
+                <string>苦痛</string>
+                <string>（～に）溶け込む</string>
+                <string>基礎</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>integral</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                integral
+              </Question>
+              <CorrectChoicePool>
+                <string>不可欠な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>非現実的な</string>
+                <string>千里眼の</string>
+                <string>面白さ</string>
+                <string>～を脅かす</string>
+                <string>挫折</string>
+                <string>（～へ）追放する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>consignment</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                consignment
+              </Question>
+              <CorrectChoicePool>
+                <string>託送</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>消滅する</string>
+                <string>小刻みに動かす</string>
+                <string>（～を）免除された</string>
+                <string>不義の</string>
+                <string>結露</string>
+                <string>神経の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>primate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                primate
+              </Question>
+              <CorrectChoicePool>
+                <string>霊長類</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>加害者</string>
+                <string>火をつける</string>
+                <string>（～について）熟考する</string>
+                <string>あざ笑う（まったく敬意を示さず）</string>
+                <string>和解</string>
+                <string>逆転</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>docile</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                docile
+              </Question>
+              <CorrectChoicePool>
+                <string>従順な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>遺伝する</string>
+                <string>核</string>
+                <string>補う</string>
+                <string>投票</string>
+                <string>組み入れる</string>
+                <string>発芽する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>squeamish</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                squeamish
+              </Question>
+              <CorrectChoicePool>
+                <string>神経質な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>隣接する</string>
+                <string>仮定した</string>
+                <string>最後通告</string>
+                <string>加害者</string>
+                <string>要点</string>
+                <string>協力する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>haggard</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                haggard
+              </Question>
+              <CorrectChoicePool>
+                <string>やつれた</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>投票</string>
+                <string>後援</string>
+                <string>舞い上がる</string>
+                <string>～を突き止める</string>
+                <string>重大なミス</string>
+                <string>熱狂的な流行</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>blister</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                blister
+              </Question>
+              <CorrectChoicePool>
+                <string>水ぶくれ</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>活気のある</string>
+                <string>寛大な</string>
+                <string>麻疹</string>
+                <string>慶事</string>
+                <string>前提</string>
+                <string>規則などに従う</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>resonance</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                resonance
+              </Question>
+              <CorrectChoicePool>
+                <string>響き</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>熟考する</string>
+                <string>（～に）依存する</string>
+                <string>誇示する（みせびらかす）</string>
+                <string>～に着手する</string>
+                <string>膨れ上がった</string>
+                <string>～をだめにする</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>banter</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                banter
+              </Question>
+              <CorrectChoicePool>
+                <string>冗談（ジョークを交えたフレンドリーな語らい）</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>罪を負わせる</string>
+                <string>絶対確実な</string>
+                <string>言外の暗示的意味</string>
+                <string>死亡率</string>
+                <string>ぜいたくな</string>
+                <string>げっ歯動物</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>litigation</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                litigation
+              </Question>
+              <CorrectChoicePool>
+                <string>訴訟</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>即座の</string>
+                <string>千里眼の</string>
+                <string>中毒性のある</string>
+                <string>強調</string>
+                <string>行使する</string>
+                <string>修正する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>flaunt</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                flaunt
+              </Question>
+              <CorrectChoicePool>
+                <string>誇示する（みせびらかす）</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>静止した</string>
+                <string>嫌な</string>
+                <string>不可欠な</string>
+                <string>控除（額）差し引き</string>
+                <string>結露</string>
+                <string>認知症</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>simulate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                simulate
+              </Question>
+              <CorrectChoicePool>
+                <string>模擬実験する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～をだめにする</string>
+                <string>田舎風の</string>
+                <string>記念品</string>
+                <string>ヒ素</string>
+                <string>（時計の）振り子</string>
+                <string>黒字</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>pristine</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                pristine
+              </Question>
+              <CorrectChoicePool>
+                <string>汚されていない</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～を縛る</string>
+                <string>略奪する</string>
+                <string>～する傾向がある</string>
+                <string>非倫理的な</string>
+                <string>不可欠な</string>
+                <string>（～と）和解させる</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>flimsy</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                flimsy
+              </Question>
+              <CorrectChoicePool>
+                <string>見え透いた</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>与えない</string>
+                <string>前提</string>
+                <string>加害者</string>
+                <string>見落とし</string>
+                <string>優美な</string>
+                <string>何もないこと</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>infatuated</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                infatuated
+              </Question>
+              <CorrectChoicePool>
+                <string>夢中な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>喉の渇きを癒す</string>
+                <string>～を評価する</string>
+                <string>反抗</string>
+                <string>あり得る</string>
+                <string>好色な</string>
+                <string>手に負えない</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>repose</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                repose
+              </Question>
+              <CorrectChoicePool>
+                <string>休むこと</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>押しの強い</string>
+                <string>～を忘れる</string>
+                <string>燃費の悪い車</string>
+                <string>平衡</string>
+                <string>～に損害を与える</string>
+                <string>従順な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>recluse</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                recluse
+              </Question>
+              <CorrectChoicePool>
+                <string>隠遁者</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>苦境（何をどうしていいかわからないような）</string>
+                <string>嘆かわしい</string>
+                <string>破壊</string>
+                <string>（国王</string>
+                <string>世俗的な</string>
+                <string>膨れ上がった</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>defuse</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                defuse
+              </Question>
+              <CorrectChoicePool>
+                <string>信管を取り除く</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>（肘で）そっとつつく</string>
+                <string>面白さ</string>
+                <string>～の転換点にある</string>
+                <string>開催地</string>
+                <string>差し迫った</string>
+                <string>林冠</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>wreak</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                wreak
+              </Question>
+              <CorrectChoicePool>
+                <string>～をもたらす</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>周囲の</string>
+                <string>規定する</string>
+                <string>模範的な</string>
+                <string>高潔さ</string>
+                <string>～に損害を与える</string>
+                <string>強調</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>consummate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                consummate
+              </Question>
+              <CorrectChoicePool>
+                <string>～を完成する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>まれな</string>
+                <string>埋め込まれた</string>
+                <string>一口</string>
+                <string>～をはっきり述べる</string>
+                <string>供給過剰</string>
+                <string>運営する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>decadence</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                decadence
+              </Question>
+              <CorrectChoicePool>
+                <string>堕落</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>前例</string>
+                <string>凝血</string>
+                <string>（悪い）前兆</string>
+                <string>活気のある</string>
+                <string>身代わり</string>
+                <string>捕食性の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>persecute</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                persecute
+              </Question>
+              <CorrectChoicePool>
+                <string>迫害する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>隣接する</string>
+                <string>嫌悪感を引き起こすもの</string>
+                <string>同種の</string>
+                <string>立ち退かせる</string>
+                <string>ぶら下げる</string>
+                <string>結核</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>ascertain</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                ascertain
+              </Question>
+              <CorrectChoicePool>
+                <string>～を突き止める</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>複雑な</string>
+                <string>汚点</string>
+                <string>殺到する</string>
+                <string>改善策</string>
+                <string>独身（主義）者の</string>
+                <string>追放</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>entice</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                entice
+              </Question>
+              <CorrectChoicePool>
+                <string>～を誘惑する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>骨の折れる</string>
+                <string>妨げる</string>
+                <string>無関心</string>
+                <string>蔓延る</string>
+                <string>推薦する</string>
+                <string>慰め</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>simultaneous</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                simultaneous
+              </Question>
+              <CorrectChoicePool>
+                <string>同時の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>てんてこまいの</string>
+                <string>汽水</string>
+                <string>ぞっとさせる</string>
+                <string>台帳</string>
+                <string>無罪放免</string>
+                <string>～にかかっている</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>surpass</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                surpass
+              </Question>
+              <CorrectChoicePool>
+                <string>上回る</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～に着手する</string>
+                <string>非現実的な</string>
+                <string>加速する</string>
+                <string>群れ</string>
+                <string>病気の予後</string>
+                <string>混乱</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>adorn</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                adorn
+              </Question>
+              <CorrectChoicePool>
+                <string>（～で）飾る</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>与えない</string>
+                <string>肉体を持つこと</string>
+                <string>誇示する（みせびらかす）</string>
+                <string>窃盗罪</string>
+                <string>不規則に変動する</string>
+                <string>確執</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>catalyst</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                catalyst
+              </Question>
+              <CorrectChoicePool>
+                <string>触媒</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>殺到する</string>
+                <string>概要（報告）</string>
+                <string>後援</string>
+                <string>突然</string>
+                <string>妨げる</string>
+                <string>慎重な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>hamper</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                hamper
+              </Question>
+              <CorrectChoicePool>
+                <string>妨げる</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>中断[混乱]させる</string>
+                <string>まれな</string>
+                <string>慰め</string>
+                <string>散会する</string>
+                <string>殺到する</string>
+                <string>見せかけ</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>insidious</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                insidious
+              </Question>
+              <CorrectChoicePool>
+                <string>陰険な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>避ける</string>
+                <string>（きめ</string>
+                <string>～に貢献する</string>
+                <string>供給過剰</string>
+                <string>（～について）熟考する</string>
+                <string>飢えている</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>erupt</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                erupt
+              </Question>
+              <CorrectChoicePool>
+                <string>噴火する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>（～を）欠いている</string>
+                <string>もっともらしい</string>
+                <string>不備がある</string>
+                <string>がぶ飲みする</string>
+                <string>残虐行為</string>
+                <string>～を分析する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>sobriety</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                sobriety
+              </Question>
+              <CorrectChoicePool>
+                <string>禁酒</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>肥料</string>
+                <string>影響されやすい</string>
+                <string>～をじっくり考える</string>
+                <string>～を解読する</string>
+                <string>通俗な</string>
+                <string>～をはっきり述べる</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>dissertation</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                dissertation
+              </Question>
+              <CorrectChoicePool>
+                <string>論文</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>傲慢な</string>
+                <string>～を分析する</string>
+                <string>強調</string>
+                <string>うさん臭い</string>
+                <string>炎症を起こした</string>
+                <string>有害な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>sneer</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                sneer
+              </Question>
+              <CorrectChoicePool>
+                <string>あざ笑う（まったく敬意を示さず）</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>窃盗罪</string>
+                <string>結露</string>
+                <string>（肘で）そっとつつく</string>
+                <string>中断[混乱]させる</string>
+                <string>初心者</string>
+                <string>～を大目に見る</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>taunt</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                taunt
+              </Question>
+              <CorrectChoicePool>
+                <string>あざける</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～を起訴する</string>
+                <string>隣接する</string>
+                <string>欠陥</string>
+                <string>非現実的な</string>
+                <string>堕落</string>
+                <string>分解する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>deplorable</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                deplorable
+              </Question>
+              <CorrectChoicePool>
+                <string>嘆かわしい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>腸</string>
+                <string>後代</string>
+                <string>ほくそ笑む</string>
+                <string>はびこる</string>
+                <string>強調</string>
+                <string>妨げる</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>vanquish</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                vanquish
+              </Question>
+              <CorrectChoicePool>
+                <string>打ち破る</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>排他的な人（強い偏見のある）</string>
+                <string>跳ね回る</string>
+                <string>修正する</string>
+                <string>（～と）和解させる</string>
+                <string>避ける</string>
+                <string>絶滅させる</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>arduous</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                arduous
+              </Question>
+              <CorrectChoicePool>
+                <string>骨の折れる</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>～を引き起こす</string>
+                <string>～にかかっている</string>
+                <string>前兆</string>
+                <string>嫌悪感を引き起こすもの</string>
+                <string>非現実的な</string>
+                <string>（よだれを）垂らす</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>sustainable</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                sustainable
+              </Question>
+              <CorrectChoicePool>
+                <string>持続可能な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>獣医</string>
+                <string>吐き気がする</string>
+                <string>千鳥足で歩く</string>
+                <string>複雑な</string>
+                <string>（収入</string>
+                <string>絶滅</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>resilient</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                resilient
+              </Question>
+              <CorrectChoicePool>
+                <string>回復力のある</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>危険な</string>
+                <string>悲惨な</string>
+                <string>～する傾向がある</string>
+                <string>炎症を起こした</string>
+                <string>～で有名な</string>
+                <string>滞納した</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>diagnose</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                diagnose
+              </Question>
+              <CorrectChoicePool>
+                <string>診断する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>染み込む</string>
+                <string>駆除</string>
+                <string>誇示する（みせびらかす）</string>
+                <string>特質</string>
+                <string>報復</string>
+                <string>とりもどす</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>prelude</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                prelude
+              </Question>
+              <CorrectChoicePool>
+                <string>前兆</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>協力する</string>
+                <string>公平</string>
+                <string>～に貢献する</string>
+                <string>しまりのない</string>
+                <string>ぶっきらぼうに</string>
+                <string>知恵のある</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>inflamed</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                inflamed
+              </Question>
+              <CorrectChoicePool>
+                <string>炎症を起こした</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>運営する</string>
+                <string>直径</string>
+                <string>残虐行為</string>
+                <string>規則などに従う</string>
+                <string>後援</string>
+                <string>呼吸器に関する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>impractical</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                impractical
+              </Question>
+              <CorrectChoicePool>
+                <string>非現実的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>急いで行く</string>
+                <string>ひどく負かす</string>
+                <string>（犯罪などに）巻き込む</string>
+                <string>気質</string>
+                <string>規定する</string>
+                <string>鋭い</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>evaporate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                evaporate
+              </Question>
+              <CorrectChoicePool>
+                <string>消滅する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>影響を受けやすい</string>
+                <string>譲歩</string>
+                <string>響き</string>
+                <string>分子</string>
+                <string>触媒</string>
+                <string>通俗な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>revel</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                revel
+              </Question>
+              <CorrectChoicePool>
+                <string>を大いに楽しむ（どんちゃん騒ぎをする）</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>消滅する</string>
+                <string>熟考する</string>
+                <string>追い払う</string>
+                <string>組み入れる</string>
+                <string>軽薄な</string>
+                <string>中断[混乱]させる</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>spasm</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                spasm
+              </Question>
+              <CorrectChoicePool>
+                <string>（筋肉の）ひきつり（ひきつけ</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>曖昧な</string>
+                <string>活気のない</string>
+                <string>有毒な</string>
+                <string>～を誘惑する</string>
+                <string>要点</string>
+                <string>後代</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>decorum</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                decorum
+              </Question>
+              <CorrectChoicePool>
+                <string>礼儀正しさ</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>満場一致で</string>
+                <string>主張</string>
+                <string>～で売れる</string>
+                <string>～に屈する</string>
+                <string>迫害する</string>
+                <string>やつれた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>sluggish</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                sluggish
+              </Question>
+              <CorrectChoicePool>
+                <string>活気のない</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>好色な</string>
+                <string>風味</string>
+                <string>ぺてん師</string>
+                <string>物腰の柔らかな</string>
+                <string>到来</string>
+                <string>不誠実な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>voluptuous</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                voluptuous
+              </Question>
+              <CorrectChoicePool>
+                <string>官能的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>非常に正確な</string>
+                <string>～で売れる</string>
+                <string>壮大な</string>
+                <string>獣医</string>
+                <string>困らせる</string>
+                <string>げっ歯動物</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>drab</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                drab
+              </Question>
+              <CorrectChoicePool>
+                <string>くすんだ</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>喉の渇きを癒す</string>
+                <string>不屈の精神</string>
+                <string>国外追放</string>
+                <string>長引く</string>
+                <string>中毒性のある</string>
+                <string>堕落</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>reprimand</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                reprimand
+              </Question>
+              <CorrectChoicePool>
+                <string>叱責</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>舞い上がる</string>
+                <string>不必要な</string>
+                <string>～する傾向がある</string>
+                <string>（いつわりの）外見</string>
+                <string>～にくっついて離れない</string>
+                <string>嫌悪感を引き起こすもの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>dawdle</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                dawdle
+              </Question>
+              <CorrectChoicePool>
+                <string>ぐずぐずする</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>要点</string>
+                <string>（～への）改宗</string>
+                <string>～に着手する</string>
+                <string>台帳</string>
+                <string>寛大な処置</string>
+                <string>熱狂的な流行</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>transcend</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                transcend
+              </Question>
+              <CorrectChoicePool>
+                <string>超える</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>（電気</string>
+                <string>苦境（何をどうしていいかわからないような）</string>
+                <string>を混乱させる（予期せず）（論破する</string>
+                <string>子孫</string>
+                <string>記念品</string>
+                <string>（悪い）前兆</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>gist</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                gist
+              </Question>
+              <CorrectChoicePool>
+                <string>要点</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>挫折</string>
+                <string>偏頭痛</string>
+                <string>半球</string>
+                <string>取り乱した</string>
+                <string>酵素</string>
+                <string>覆い隠す</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>apathy</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                apathy
+              </Question>
+              <CorrectChoicePool>
+                <string>無関心</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>生息環境</string>
+                <string>周囲の</string>
+                <string>埋め込まれた</string>
+                <string>講演</string>
+                <string>配給</string>
+                <string>～にくっついて離れない</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>nimble</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                nimble
+              </Question>
+              <CorrectChoicePool>
+                <string>素早い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>推論する</string>
+                <string>窃盗罪</string>
+                <string>取り乱した</string>
+                <string>したがって</string>
+                <string>興奮する</string>
+                <string>（大脳）皮質</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>haughty</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                haughty
+              </Question>
+              <CorrectChoicePool>
+                <string>傲慢な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>迫害する</string>
+                <string>超過</string>
+                <string>一時的に救う</string>
+                <string>輝いて</string>
+                <string>～を起訴する</string>
+                <string>～をそしる</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>precarious</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                precarious
+              </Question>
+              <CorrectChoicePool>
+                <string>危険な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>（～へ）案内する</string>
+                <string>結露</string>
+                <string>（～を）手さぐりで捜す</string>
+                <string>驚くべき</string>
+                <string>概要（報告）</string>
+                <string>国外追放</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>acquittal</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                acquittal
+              </Question>
+              <CorrectChoicePool>
+                <string>無罪放免</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>論文</string>
+                <string>染み一つない</string>
+                <string>理解しにくい</string>
+                <string>恩恵を受ける人</string>
+                <string>その後の</string>
+                <string>慎重</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>pendulum</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                pendulum
+              </Question>
+              <CorrectChoicePool>
+                <string>（時計の）振り子</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>嫌な</string>
+                <string>植物の胴枯れ病</string>
+                <string>～に貢献する</string>
+                <string>妨げる</string>
+                <string>不慮の事故</string>
+                <string>極悪非道な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>contaminate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                contaminate
+              </Question>
+              <CorrectChoicePool>
+                <string>汚染する</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>複雑な</string>
+                <string>輸血</string>
+                <string>見え透いた</string>
+                <string>記念品</string>
+                <string>概要（報告）</string>
+                <string>追い払う</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>compliance</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                compliance
+              </Question>
+              <CorrectChoicePool>
+                <string>遵守</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>敬虔な</string>
+                <string>を集める</string>
+                <string>面白さ</string>
+                <string>直径</string>
+                <string>慎重な</string>
+                <string>響き</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>ambient</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                ambient
+              </Question>
+              <CorrectChoicePool>
+                <string>周囲の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>急いで行く</string>
+                <string>散会する</string>
+                <string>多様な</string>
+                <string>慎重な</string>
+                <string>贈収賄</string>
+                <string>急に落ち込む</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>meager</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                meager
+              </Question>
+              <CorrectChoicePool>
+                <string>（収入</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>腸</string>
+                <string>補う</string>
+                <string>安定させる</string>
+                <string>基礎</string>
+                <string>前兆</string>
+                <string>具体的には</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>incorporate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                incorporate
+              </Question>
+              <CorrectChoicePool>
+                <string>組み入れる</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>あり得る</string>
+                <string>（～に）依存する</string>
+                <string>鋭敏な</string>
+                <string>必要不可欠な</string>
+                <string>困らせる</string>
+                <string>軽薄な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>zenith</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                zenith
+              </Question>
+              <CorrectChoicePool>
+                <string>絶頂 天頂</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>満期になる</string>
+                <string>～を少しずつ減らす</string>
+                <string>生来の</string>
+                <string>高潔さ</string>
+                <string>得意なこと</string>
+                <string>推測する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>grumble</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                grumble
+              </Question>
+              <CorrectChoicePool>
+                <string>文句を言う</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>気取って歩く</string>
+                <string>～を厳しく取り締まる</string>
+                <string>名誉棄損</string>
+                <string>何もないこと</string>
+                <string>白血病</string>
+                <string>長引く</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>corroborate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                corroborate
+              </Question>
+              <CorrectChoicePool>
+                <string>裏付ける</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>（食物が）薄味の</string>
+                <string>獣医</string>
+                <string>融解した</string>
+                <string>跳ね回る</string>
+                <string>重い</string>
+                <string>一時的に</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>contradictory</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                contradictory
+              </Question>
+              <CorrectChoicePool>
+                <string>矛盾している</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>熟考する</string>
+                <string>見落とし</string>
+                <string>気まぐれな</string>
+                <string>非常に正確な</string>
+                <string>論文</string>
+                <string>供給過剰</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>obligatory</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                obligatory
+              </Question>
+              <CorrectChoicePool>
+                <string>義務的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>世に知られてないこと</string>
+                <string>さらさら音を立てる</string>
+                <string>強く主張する</string>
+                <string>（狭量で）我慢できない</string>
+                <string>（事業などに）乗り出す</string>
+                <string>受け入れやすい</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>clairvoyant</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                clairvoyant
+              </Question>
+              <CorrectChoicePool>
+                <string>千里眼の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>受賞者</string>
+                <string>取り乱した</string>
+                <string>はびこる</string>
+                <string>身の毛もよだつような</string>
+                <string>田舎風の</string>
+                <string>避ける</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>pertinent</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                pertinent
+              </Question>
+              <CorrectChoicePool>
+                <string>適切な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>報い</string>
+                <string>地球上の</string>
+                <string>結露</string>
+                <string>迫害する</string>
+                <string>不誠実な</string>
+                <string>故障</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>integrate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                integrate
+              </Question>
+              <CorrectChoicePool>
+                <string>（～に）溶け込む</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>てんてこまいの</string>
+                <string>軽薄な</string>
+                <string>（電気</string>
+                <string>必ず</string>
+                <string>半球</string>
+                <string>熟考する</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>celibate</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                celibate
+              </Question>
+              <CorrectChoicePool>
+                <string>独身（主義）者の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>群れ</string>
+                <string>秘密などを明かす</string>
+                <string>生み出す</string>
+                <string>不規則に変動する</string>
+                <string>譲歩</string>
+                <string>重大なミス</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+<Alias>substantially</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                substantially
+              </Question>
+              <CorrectChoicePool>
+                <string>著しく</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>追放</string>
+                <string>飢えている</string>
+                <string>さらさら音を立てる</string>
+                <string>霊長類</string>
+                <string>積極的な</string>
+                <string>のどかな</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

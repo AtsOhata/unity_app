@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>MySQL_0101</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)MyS
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0102</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)MySQLMMySQL
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0103</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)MyL
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0104</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)Q
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0105</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)&apos;MySQL&apos;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0106</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)MySQLMySQLMySQL
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0107</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)MYSQL
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0108</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)LQSyM
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0109</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)SQL
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0110</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)MySQLMySQLM
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0111</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)MyR
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0112</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)M240
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0113</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SPACE(5)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0114</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)SQLMyS
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0115</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)ySQLMySQL
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0116</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)TXITUUw=
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0117</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)RMyL
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0118</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT ○○;(改行)↓(改行)(null)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>UNHEX(&apos;GG&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>CHAR(65,66,67 USING utf8)</string>
+            <string>CONCAT(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>CONCAT_WS(&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>ELT(2,&apos;My&apos;,&apos;SQ&apos;,&apos;L&apos;)</string>
+            <string>INSERT(&apos;MySQL&apos;, 2, 2, &apos;ABC&apos;)</string>
+            <string>LEFT(&apos;MySQL&apos;, 3)</string>
+            <string>LPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>LTRIM(&apos;  MyL  &apos;)</string>
+            <string>MAKE_SET(2&amp;3,&apos;S&apos;,&apos;Q&apos;,&apos;L&apos;)</string>
+            <string>QUOTE(&apos;MySQL&apos;)</string>
+            <string>REPEAT(&apos;MySQL&apos;, 3)</string>
+            <string>REPLACE(&apos;MySQL&apos;,&apos;y&apos;,&apos;Y&apos;)</string>
+            <string>REVERSE(&apos;MySQL&apos;)</string>
+            <string>RIGHT(&apos;MySQL&apos;,3)</string>
+            <string>RPAD(&apos;MySQL&apos;,11,&apos;MySQL&apos;)</string>
+            <string>RTRIM(&apos;  MyR  &apos;)</string>
+            <string>SOUNDEX(&apos;MySQL&apos;)</string>
+            <string>SPACE(5)</string>
+            <string>SUBSTRING(&apos;MySQLMySQL&apos;,-8,6)</string>
+            <string>SUBSTRING_INDEX(&apos;MySQLMySQL&apos;,&apos;M&apos;,-2)</string>
+            <string>TO_BASE64(&apos;MySQL&apos;)</string>
+            <string>TRIM(&apos;My&apos; FROM &apos;MyRMyLMy&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0119</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT &apos;jaimon&apos; REGEXP &apos;^jai&apos;,(改行)&apos;jaimon&apos; REGEXP &apos;mon$&apos;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>1,1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>1,0</string>
+            <string>0,1</string>
+            <string>0,0</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0120</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT &apos;jaimon&apos; REGEXP &apos;^j.i$&apos;,(改行)&apos;jaimon&apos; REGEXP &apos;^j.i&apos;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>0,1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>1,0</string>
+            <string>1,1</string>
+            <string>0,0</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

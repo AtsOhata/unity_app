@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+<QuestionPack>
+          <Alias>友(太字)もがな(/太字)</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                友もがな
+              </Question>
+              <CorrectChoicePool>
+                <string>友がほしい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>友もだ</string>
+                <string>友だろうが</string>
+                <string>友もいらない</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+
+<QuestionPack>
+          <Alias>得てしがな</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                得てしがな
+              </Question>
+              <CorrectChoicePool>
+                <string>得たい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>得ても意味がない</string>
+                <string>すでに得ている</string>
+                <string>得たくない</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+
+<QuestionPack>
+          <Alias>ありけり</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                ありけり
+              </Question>
+              <CorrectChoicePool>
+                <string>あったという</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>あるみたいだ</string>
+                <string>あった</string>
+                <string>あるらしい</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+
+<QuestionPack>
+          <Alias>子なくらむ</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                子(太字)なくらむ(/太字)
+              </Question>
+              <CorrectChoicePool>
+                <string>ないているだろう</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>いなかった</string>
+                <string>ないていた</string>
+                <string>いなくなるだろう</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+
+<QuestionPack>
+          <Alias>風も吹きぬべし</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                風も(太字)吹きぬべし(/太字)
+              </Question>
+              <CorrectChoicePool>
+                <string>きっと吹くだろう</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>吹いてしまっただろう</string>
+                <string>吹いている</string>
+                <string>吹いてしまった</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+
+<QuestionPack>
+          <Alias>駿河の国にあなる山</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                駿河の国に(太字)あなる山(/太字)
+              </Question>
+              <CorrectChoicePool>
+                <string>あるという山</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>尻の穴の山</string>
+                <string>富士山</string>
+                <string>アナルの山</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+
+<QuestionPack>
+          <Alias>鳥ならば、飛ばまし</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                「鳥なら(太字)ば(/太字)、飛ば(太字)まし(/太字)」
+              </Question>
+              <CorrectChoicePool>
+                <string>鳥ならば飛んでいくのに</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>鳥ならば飛ばない</string>
+                <string>鳥ならば飛べる</string>
+                <string>鳥ならば飛ばないだろう</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+
+<QuestionPack>
+          <Alias>雪消の水ぞまさるらし</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                「雪消の水ぞ(太字)まさるらし(/太字)」
+              </Question>
+              <CorrectChoicePool>
+                <string>多いらしい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>多くない</string>
+                <string>多かったという</string>
+                <string>多くないらしい</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+                1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+                3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+
+  </QuestionPacks>
+</QuestionSet>

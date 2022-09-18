@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RandomFlag>true</RandomFlag>
+  <UpperLimitFlag>1</UpperLimitFlag>
+    <QuestionPacks>
+    <QuestionPack>
+      <Alias>JS_Basic_0141</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;ababab&quot;.replace(/ab+a/g,&quot;Z&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>Zbab</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Zb</string>
+            <string>ZZb</string>
+            <string>ababab</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0142</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;ab ab ab&quot;.replace(/ab+a/g,&quot;Z&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>ab ab ab</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Zb ab</string>
+            <string>Zb</string>
+            <string>ZZb</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0143</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcbab&quot;.replace(/[ab]/g,&quot;Z&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>ZZcZZZ</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>ZcbZ</string>
+            <string>ZZcbZZ</string>
+            <string>abcbab</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0144</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcbab&quot;.replace(/[^ab]/g,&quot;Z&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>abZbab</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>Zbcbab</string>
+            <string>ZcbZ</string>
+            <string>abcbab</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0145</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;a a a a&quot;.search(/a/)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>0</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2</string>
+            <string>1</string>
+            <string>6</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0146</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcabcabc&quot;.charAt(3)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>a</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>b</string>
+            <string>c</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0147</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcabcabc&quot;.split(&quot;c&quot;,2)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>[&apos;ab&apos;,&apos;ab&apos;]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>[&apos;ab&apos;,&apos;ab&apos;,&apos;ab&apos;]</string>
+            <string>[&apos;ab&apos;]</string>
+            <string></string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0148</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcabcabc&quot;.slice(2,-3)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>cabc</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cabca</string>
+            <string>cab</string>
+            <string>cabcab</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0149</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcabcabc&quot;.substr(2,5)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>cabca</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cabc</string>
+            <string>cab</string>
+            <string>cabcab</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0150</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abcabcabc&quot;.substring(2,5)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>cab</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>cabc</string>
+            <string>cabca</string>
+            <string>cabcab</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0151</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;\u0130&quot;.toLocaleLowerCase(&quot;tr&quot;) === &quot;i&quot;(改行)&quot;\u0130&quot;.toLocaleLowerCase(&quot;en-US&quot;) === &quot;i&quot;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>true,false</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>false,false</string>
+            <string>true,true</string>
+            <string>false,true</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0153</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;AB$C&quot;.toLowerCase()
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>ab$c</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>ab c</string>
+            <string>abc</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0154</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            &quot;abCd&quot;.toUpperCase()
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>ABCD</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>ABcD</string>
+            <string>ABD</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0155</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let a = &quot; &quot; + &quot;a&quot; + &quot; &quot; + &quot; &quot;(改行)a.trim().length(改行)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2</string>
+            <string>3</string>
+            <string>4</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0156</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let a = &quot; &quot; + &quot;a&quot; + &quot; &quot; + &quot; &quot;(改行)a.trimLeft().length(改行)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>3</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>1</string>
+            <string>2</string>
+            <string>4</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0157</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let a = &quot; &quot; + &quot;a&quot; + &quot; &quot; + &quot; &quot;(改行)a.trimRight().length(改行)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>2</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>3</string>
+            <string>1</string>
+            <string>4</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0158</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let reg = /(\w+)\s(\w+)/;(改行)let txt = &quot;wo1 wo2 wo3&quot;;(改行)txt.replace(reg, &quot;$2 $1"));
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>wo2 wo1 wo3</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>wo1 wo3 wo2</string>
+            <string>wo2 wo1</string>
+            <string>wo3 wo1 wo2</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0159</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let reg = /[abc]/g;(改行)reg.source(改行)new RegExp(&quot;&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>[abc], /(?:)/</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>[abc]/g, /(?:)/</string>
+            <string>[abc], </string>
+            <string>[abc]/g, </string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0160</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let reg = /0.*2/;(改行)reg.exec()(改行)reg.exec(&quot;A100A200A300&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>null, 00A2</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>null, 0A2</string>
+            <string>error, 00A2</string>
+            <string>error, 0A2</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

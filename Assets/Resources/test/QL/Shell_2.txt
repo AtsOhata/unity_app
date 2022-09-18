@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>ラテンテスト3-1</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            silvaの単数属格は？
+          </Question>
+          <CorrectChoicePool>
+            <string>silvae</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>silvārum</string>
+            <string>silvīs</string>
+            <string>silva</string>
+            <string>silvās</string>
+          </WrongChoicePool>
+          <CorrectChoiceCount>
+            1
+          </CorrectChoiceCount>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>ラテンテスト3-1</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            poētarum
+          </Question>
+          <CorrectChoicePool>
+            <string>詩人たちの</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>詩人に</string>
+            <string>詩人へ</string>
+            <string>詩人たちで</string>
+            <string>詩人たちは</string>
+          </WrongChoicePool>
+          <CorrectChoiceCount>
+            1
+          </CorrectChoiceCount>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

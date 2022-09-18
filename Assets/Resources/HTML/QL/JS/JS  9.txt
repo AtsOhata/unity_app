@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RandomFlag>true</RandomFlag>
+  <UpperLimitFlag>1</UpperLimitFlag>
+    <QuestionPacks>
+    <QuestionPack>
+      <Alias>JS_Basic_0161</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let reg = /0.*2/;(改行)reg.exec()(改行)reg.exec(&quot;A100A200A300&quot;)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>null, 00A2</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>null, 0A2</string>
+            <string>error, 00A2</string>
+            <string>error, 0A2</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0162</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const reg = /A..A/g;(改行)const txt = &quot;AbcAcbAdd&quot;;(改行)reg.test(txt);(改行)console.log(reg.lastIndex);(改行)reg.test(txt);(改行)console.log(reg.lastIndex);
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>4,0</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>0,4</string>
+            <string>0,0</string>
+            <string>4,4</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0163</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const reg = /c.*$/g;(改行)const txt = &quot;8c5b4a&quot;;(改行)reg.lastIndex = 2;(改行)reg.test(txt)
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>false</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>true</string>
+            <string>c5b4a</string>
+            <string></string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0164</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const reg1 = /^exa/m;(改行)const reg2 = /^exa/;(改行)reg1.multiline;(改行)reg2.multiline;(改行)reg1.test("the\nexam");(改行)reg2.test("the\nexam");
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>true,false,true,false</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>true,true,false,false</string>
+            <string>false,true,false,true</string>
+            <string>true,true,true,true</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0165</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const reg1 = /a/g;(改行)const reg2 = /a/i;(改行)const reg3 = /a/gi;(改行)reg1.global;(改行)reg2.global;(改行)reg1.ignoreCase;(改行)reg3.ignoreCase;
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>true,false,false,true</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>true,true,false,false</string>
+            <string>false,true,false,true</string>
+            <string>false,true,true,false</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0166</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day = new Date(&quot;2000-01-03&quot;);(改行)day.getDay();(改行)day.getMonth();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>1,0</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>1,1</string>
+            <string>3,0</string>
+            <string>3,l</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0167</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day = new Date(&quot;2000-01-03&quot;);(改行)day.getDate();(改行)day.getDay();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>3,1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>1,3</string>
+            <string>3,3</string>
+            <string>1,1</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0168</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day = new Date(&quot;2000-01-03&quot;);(改行)○○(改行)(改行)↓(改行)(改行)2000
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>day.getFullYear()</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>day.getYear()</string>
+            <string>day.getWholeYear()</string>
+            <string>day.getY()</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0169</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day = new Date(&quot;2000-01-03 11:22:33.123&quot;);(改行)day.getHours();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>11</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>22</string>
+            <string>33</string>
+            <string>123</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0170</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day = new Date(&quot;2000-01-03 11:22:33.123&quot;);(改行)day.getMinutes();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>22</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>11</string>
+            <string>33</string>
+            <string>123</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0171</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day = new Date(&quot;2000-01-03 11:22:33.123&quot;);(改行)day.getSeconds();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>33</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>11</string>
+            <string>22</string>
+            <string>123</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0172</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day = new Date(&quot;2000-01-03 11:22:33.123&quot;);(改行)day.getMilliseconds();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>123</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>11</string>
+            <string>22</string>
+            <string>33</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0173</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day1 = new Date(&quot;2000-01-01 01:00:00 GMT+10&quot;);(改行)const day2 = new Date(&quot;2000-01-01 01:00:00 GMT-10&quot;);(改行)day1.getUTCDate();(改行)day2.getUTCDate();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>31,1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>31,31</string>
+            <string>1,31</string>
+            <string>1,1</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0174</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day1 = new Date(&quot;2000-01-01 01:00:00 GMT+10&quot;);(改行)const day2 = new Date(&quot;2000-01-01 01:00:00 GMT-10&quot;);(改行)day1.getUTCFullYear();(改行)day2.getUTCFullYear();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>1999,2000</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2000,1999</string>
+            <string>2000,2001</string>
+            <string>2001,2000</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0175</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day1 = new Date(&quot;2000-01-01 01:00:00 GMT+10&quot;);(改行)const day2 = new Date(&quot;2000-01-01 01:00:00 GMT-10&quot;);(改行)day1.getUTCDay();(改行)day2.getUTCDay();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>5,6</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>6,5</string>
+            <string>4,3</string>
+            <string>0,7</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0176</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day1 = new Date(&quot;2000-01-01 01:00:00 GMT+10&quot;);(改行)const day2 = new Date(&quot;2000-01-01 01:00:00 GMT-10&quot;);(改行)day1.getUTCMonth();(改行)day2.getUTCMonth();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>11,0</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>12,1</string>
+            <string>0,11</string>
+            <string>1,12</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0177</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            const day1 = new Date(&quot;2000-01-01 01:00:00 GMT+10&quot;);(改行)const day2 = new Date(&quot;2000-01-01 01:00:00 GMT-10&quot;);(改行)day1.getUTCHours();(改行)day2.getUTCHours();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>15,11</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>16,12</string>
+            <string>11,15</string>
+            <string>16,12</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0178</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            new Date().getTime() == Date.now();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>true</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>false</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0179</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let day1 = new Date();(改行)day1.setMonth(12);(改行)day1.getMonth();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>0</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>12</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>JS_Basic_0180</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            let day1 = new Date();(改行)day1.setMonth(12);(改行)day1.getMonth();
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>0</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>12</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

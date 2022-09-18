@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OrderFlag>true</OrderFlag>
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>テスト説明2-1</Alias>
+      <ReadingMaterial>第１変化では下記のように変化します</ReadingMaterial>
+      <Picture>Noun_First_Declension</Picture>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

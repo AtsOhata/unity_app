@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>記述式テスト1</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="Description">
+          <Question>
+            稲作が盛んになると小さな国々ができ、人々を支配する豪族や(  )が現れる
+          </Question>
+          <CorrectChoicePool>
+            <string>王</string>
+          </CorrectChoicePool>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>記述式テスト2</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="Description">
+          <Question>
+            交易をめぐり不満を持ったアイヌの人々は首長の(  )を中心に戦いを起こしたが敗れた。
+          </Question>
+          <CorrectChoicePool>
+            <string>コシャマイン</string>
+          </CorrectChoicePool>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>記述式テスト3</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="Description">
+          <Question>
+            源頼朝が、1185年に荘園や公領に置いた役職は？
+          </Question>
+          <CorrectChoicePool>
+            <string>地頭</string>
+          </CorrectChoicePool>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>記述式テスト4</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="Description">
+          <Question>
+            過ちを犯したとき、先っぽから白い液が出てくるアレといったらナニ？
+          </Question>
+          <CorrectChoicePool>
+            <string>修正液</string>
+          </CorrectChoicePool>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>記述式テスト5</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="Description">
+          <Question>
+            子供はヤらないけど、大人になると定期的にヤります。「イれて欲しい」とお願いされることもありそんな時はイれてあげたりもします。これナニ？
+          </Question>
+          <CorrectChoicePool>
+            <string>選挙</string>
+          </CorrectChoicePool>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>記述式テスト6</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="Description">
+          <Question>
+            足利将軍となった15人のうち3人あげよ
+          </Question>
+          <CorrectChoicePool>
+            <string>尊氏</string>
+            <string>義詮</string>
+            <string>義満</string>
+            <string>義持</string>
+            <string>義量</string>
+            <string>義教</string>
+            <string>義勝</string>
+            <string>義政</string>
+            <string>義尚</string>
+            <string>義稙</string>
+            <string>義澄</string>
+            <string>義晴</string>
+            <string>義輝</string>
+            <string>義栄</string>
+            <string>義昭</string>
+          </CorrectChoicePool>
+          <Caution>名前のみ挙げよ。答えとなる語句の間は,で区切れ。</Caution>
+          <CorrectChoiceCount>3</CorrectChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>記述式テスト7</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="Description">
+          <Question>
+            徳川家康が整備した五街道のうち3つあげよ
+          </Question>
+          <CorrectChoicePool>
+            <string>東海道</string>
+            <string>中山道</string>
+            <string>甲州街道</string>
+            <string>奥州街道</string>
+            <string>日光街道</string>
+          </CorrectChoicePool>
+          <Caution>答えとなる語句の間は,で区切れ。</Caution>
+          <CorrectChoiceCount>3</CorrectChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>記述式テスト8</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="Description">
+          <Question>
+            「古事記」を編纂し、元明天皇に献上した人は？
+          </Question>
+          <CorrectChoicePool>
+            <string>太安万侶</string>
+          </CorrectChoicePool>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>並べ替えテスト1</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <Question>
+            次の和書を成立年順に選べ
+          </Question>
+          <CorrectOrder>古事記,日本書紀,懐風藻,万葉集</CorrectOrder>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>並べ替えテスト2</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <Question>
+            次の店を成立年順に選べ
+          </Question>
+          <CorrectOrder>バーガーキング,マクドナルド,ロッテリア,モスバーガー</CorrectOrder>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>並べ替えテスト3</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <Question>
+            A・B・C・Dといえば(  )・(  )・(  )・(  )である
+          </Question>
+          <CorrectOrder>キス,ペッティング,セックス,妊娠</CorrectOrder>
+          <DummyChoices>中絶</DummyChoices>
+          <ChooseQuantity>4</ChooseQuantity>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>並べ替えテスト4</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <CorrectOrder>That,sounds,great</CorrectOrder>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>並べ替えテスト5</Alias>
+      <Picture>0001</Picture>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <CorrectOrder>野,獣,先,輩</CorrectOrder>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>並べ替えテスト6</Alias>
+      <Picture>0001</Picture>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <CorrectOrder>性,犯,罪,者</CorrectOrder>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

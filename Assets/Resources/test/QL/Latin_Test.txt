@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OrderFlag>true</OrderFlag>
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>テスト説明1</Alias>
+      <ReadingMaterial>名詞には男性・女性・中性の区別があります (改行) 男性名詞 (改行) 例: pater (改行) 女性名詞 (改行) 例: māter (改行) 中性名詞 (改行) 例: nōmen</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>テスト説明2</Alias>
+      <ReadingMaterial>名詞には６つの格があり、大体の訳はこんな感じです (改行) 主格: ～は (改行) 属格: ～の (改行) 与格: ～に (改行) 対格: ～を (改行) 奪格: ～で、～とともに、～から (改行) 呼格: (よびかけ)</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>テスト説明3</Alias>
+      <ReadingMaterial>辞書の見出しには(太字)主格(/太字)と(太字)属格(/太字)が載っています (改行)(改行) 例: amor -ōris (改行)(改行)慣れていけば、この２格が分かれば他の格もわかるようになります</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>テスト説明4</Alias>
+      <ReadingMaterial>語順 (改行)(改行)ラテン語の語順は自由です(改行)(改行)puer canem videt(少年は犬を見る)だったら(改行)puer videt canem(改行)videt puer canem(改行)videt canem puer(改行)canem videt puer(改行)canem puer videt(改行)(改行)という6通りの言い方ができます</ReadingMaterial>
+      <GoToNextQuestionButtonType>2</GoToNextQuestionButtonType>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

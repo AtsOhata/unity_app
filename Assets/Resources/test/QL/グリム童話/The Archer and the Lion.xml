@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <ReadingMaterial>
+        An Archer went up into the hills to get some sport with his bow, and all the animals fled at the sight of him with the exception of the Lion, who stayed behind and challenged him to fight. But he shot an arrow at the Lion and hit him, and said, "There, you see what my messenger can do: just you wait a moment and I'll tackle you myself." The Lion, however, when he felt the sting of the arrow, ran away as fast as his legs could carry him. A fox, who had seen it all happen, said to the Lion, "Come, don't be a coward: why don't you stay and show fight?" But the Lion replied, "You won't get me to stay, not you: why, when he sends a messenger like that before him, he must himself be a terrible fellow to deal with." Give a wide berth to those who can do damage at a distance.
+      </ReadingMaterial>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            この訓えに沿うと、最強なのはどれ？
+          </Question>
+          <CorrectChoicePool>
+            <string>弓</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>剣</string>
+            <string>盾</string>
+            <string>槍</string>
+            <string>棍棒</string>
+          </WrongChoicePool>
+          <CorrectChoiceCount>
+            1
+          </CorrectChoiceCount>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>
+
+

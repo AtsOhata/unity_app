@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <ReadingMaterial>
+        When Hercules was received among the gods and was entertained at a banquet by Jupiter, he responded courteously to the greetings of all with the exception of Plutus, the god of wealth. When Plutus approached him, he cast his eyes upon the ground, and turned away and pretended not to see him. Jupiter was surprised at this conduct on his part, and asked why, after having been so cordial with all the other gods, he had behaved like that to Plutus. "Sire," said Hercules, "I do not like Plutus, and I will tell you why. When we were on earth together I always noticed that he was to be found in the company of scoundrels."
+      </ReadingMaterial>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            この話から分かることは何か
+          </Question>
+          <CorrectChoicePool>
+            <string>悪い方法で金持ちになっても嫌われる</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>金持ちは嫌われる</string>
+            <string>ヘラクレスは嫉妬深かった</string>
+            <string>悪い人とつるんではいけない</string>
+          </WrongChoicePool>
+          <CorrectChoiceCount>
+            1
+          </CorrectChoiceCount>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>
+
+

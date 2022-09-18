@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RandomFlag>true</RandomFlag>
+  <UpperLimitFlag>1</UpperLimitFlag>
+    <QuestionPacks>
+    <QuestionPack>
+      <Alias>CSS_Basic_0001</Alias>
+      <Image>CSS_Basic_0001</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○ {(改行)  color: blue;(改行)}
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>*</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>all</string>
+            <string>#</string>
+            <string>$</string>
+            <string>%</string>
+            <string>&amp;</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0002</Alias>
+      <Image>CSS_Basic_0002</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○ {(改行)  color: blue;(改行)}
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>h1</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>h2</string>
+            <string>p</string>
+            <string>head</string>
+            <string>headline</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0003</Alias>
+      <Image>CSS_Basic_0003</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○ {(改行)  color: blue;(改行)}(改行)(改行)HTML(改行)&lt;header&gt;(改行)  &lt;h1&gt;Headline&lt;b&gt;1&lt;/b&gt;&lt;/h1&gt;(改行)&lt;/header&gt;(改行)&lt;section&gt;(改行)  &lt;h1&gt;Headline&lt;b&gt;1&lt;/b&gt;&lt;/h1&gt;(改行)&lt;/section&gt;(改行)
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>header h1 b</string>
+            <string>header &gt; h1 &gt; b</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>b h1 header</string>
+            <string>b &lt; h1 &lt; header</string>
+            <string>header -&gt; h1 -&gt; b</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0004</Alias>
+      <Image>CSS_Basic_0004</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: blue;(改行)}(改行)(改行)HTML(改行)&lt;div class="aaa"&gt;(改行)  &lt;span&gt;1&lt;/span&gt;(改行)  &lt;div&gt;(改行)    &lt;span&gt;2&lt;/span&gt;(改行)  &lt;/div&gt;(改行)  &lt;span&gt;3&lt;/span&gt;&lt;br&gt;(改行)  &lt;span&gt;4&lt;/span&gt;(改行)&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>.aaa span</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>.aaa > span</string>
+            <string>.aaa + span</string>
+            <string>.aaa ~ span</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0005</Alias>
+      <Image>CSS_Basic_0005</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: blue;(改行)}(改行)(改行)HTML(改行)&lt;div class="aaa"&gt;(改行)  &lt;span&gt;1&lt;/span&gt;(改行)  &lt;div&gt;(改行)    &lt;span&gt;2&lt;/span&gt;(改行)  &lt;/div&gt;(改行)  &lt;span&gt;3&lt;/span&gt;&lt;br&gt;(改行)  &lt;span&gt;4&lt;/span&gt;(改行)&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>.aaa > span</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>.aaa span</string>
+            <string>.aaa + span</string>
+            <string>.aaa ~ span</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0006</Alias>
+      <Image>CSS_Basic_0006</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: blue;(改行)}(改行)(改行)HTML(改行)&lt;div class="aaa"&gt;(改行)  &lt;span&gt;1&lt;/span&gt;(改行)  &lt;div&gt;(改行)    &lt;span&gt;2&lt;/span&gt;(改行)  &lt;/div&gt;(改行)  &lt;span&gt;3&lt;/span&gt;&lt;br&gt;(改行)  &lt;span&gt;4&lt;/span&gt;(改行)&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>div + span</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>div span</string>
+            <string>div > span</string>
+            <string>div ~ span</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0007</Alias>
+      <Image>CSS_Basic_0007</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: blue;(改行)}(改行)(改行)HTML(改行)&lt;div class=&quot;aaa&quot;&gt;(改行)  &lt;span&gt;1&lt;/span&gt;(改行)  &lt;div&gt;(改行)    &lt;span&gt;2&lt;/span&gt;(改行)  &lt;/div&gt;(改行)  &lt;span&gt;3&lt;/span&gt;&lt;br&gt;(改行)  &lt;span&gt;4&lt;/span&gt;(改行)&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>div ~ span</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>div span</string>
+            <string>div + span</string>
+            <string>div > span</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0008</Alias>
+      <Image>CSS_Basic_0008</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: blue;(改行)}(改行)(改行)HTML(改行)&lt;div class=&quot;aaa&quot; id=&quot;a&quot;&gt;aaa&lt;/div&gt;(改行)&lt;div class=&quot;bbb&quot; id=&quot;b&quot;&gt;bbb&lt;/div&gt;(改行)&lt;div class=&quot;ccc&quot; id=&quot;c&quot;&gt;ccc&lt;/div&gt;(改行)
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>#b</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>div b</string>
+            <string>div.b</string>
+            <string>#bbb</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0009</Alias>
+      <Image>CSS_Basic_0009</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: blue;(改行)}(改行)(改行)HTML(改行)&lt;div class=&quot;aaa&quot;&gt;aaa&lt;/div&gt;(改行)&lt;div class=&quot;bbb&quot; id=&quot;b&quot;&gt;bbb&lt;/div&gt;(改行)&lt;div id=&quot;c&quot;&gt;ccc&lt;/div&gt;(改行)
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>div[id]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>div.id</string>
+            <string>div id</string>
+            <string>div(id)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0010</Alias>
+      <Image>CSS_Basic_0010</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)&lt;div&gt;&lt;a href=&quot;...&quot;&gt;Company&lt;/a&gt;&lt;/div&gt;(改行)&lt;div&gt;&lt;a href=&quot;...&quot; target=&quot;_self&quot;&gt;Others&lt;/a&gt;&lt;/div&lt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>a[target="_self"]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>a target _self</string>
+            <string>a[target] _self</string>
+            <string>a[target] #_self</string>
+            <string>a[target]._self</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0011</Alias>
+      <Image>CSS_Basic_0011</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)&lt;div id=&quot;ab&quot;&gt;AB&lt;/div&gt;(改行)&lt;div id=&quot;a-b&quot;&gt;A-B&lt;/div&gt;(改行)&lt;div id=&quot;b-b&quot;&gt;B-B&lt;/div&gt;(改行)&lt;div id=&quot;b-a&quot;&gt;B-A&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>div[id^="a"]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>div[id$="a"]</string>
+            <string>div[id*="a"]</string>
+            <string>div[id|="a"]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0012</Alias>
+      <Image>CSS_Basic_0012</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)&lt;div id=&quot;ab&quot;&gt;AB&lt;/div&gt;(改行)&lt;div id=&quot;a-b&quot;&gt;A-B&lt;/div&gt;(改行)&lt;div id=&quot;b-b&quot;&gt;B-B&lt;/div&gt;(改行)&lt;div id=&quot;b-a&quot;&gt;B-A&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>div[id$="a"]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>div[id^="a"]</string>
+            <string>div[id*="a"]</string>
+            <string>div[id|="a"]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0013</Alias>
+      <Image>CSS_Basic_0013</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)&lt;div id=&quot;ab&quot;&gt;AB&lt;/div&gt;(改行)&lt;div id=&quot;a-b&quot;&gt;A-B&lt;/div&gt;(改行)&lt;div id=&quot;b-b&quot;&gt;B-B&lt;/div&gt;(改行)&lt;div id=&quot;b-a&quot;&gt;B-A&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>div[id*="a"]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>div[id^="a"]</string>
+            <string>div[id$="a"]</string>
+            <string>div[id|="a"]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0014</Alias>
+      <Image>CSS_Basic_0014</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)&lt;div id=&quot;ab&quot;&gt;AB&lt;/div&gt;(改行)&lt;div id=&quot;a-b&quot;&gt;A-B&lt;/div&gt;(改行)&lt;div id=&quot;b-b&quot;&gt;B-B&lt;/div&gt;(改行)&lt;div id=&quot;b-a&quot;&gt;B-A&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>div[id|="a"]</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>div[id^="a"]</string>
+            <string>div[id$="a"]</string>
+            <string>div[id*="a"]</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0015</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            :root{(改行)    color: red;(改行)}(改行)html{(改行)    color: blue;(改行)}(改行)(改行)HTML(改行)&lt;div&gt;ABC&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>red</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>blue</string>
+            <string>N/A</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            2
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0016</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            :root{(改行)    color: red;(改行)}(改行)html{(改行)    color: blue;(改行)}(改行)div{(改行)    color: yellow;(改行)}(改行)(改行)HTML(改行)&lt;div&gt;ABC&lt;/div&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>yellow</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>blue</string>
+            <string>red</string>
+            <string>N/A</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0017</Alias>
+      <Image>CSS_Basic_0017</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)&lt;ul class=&quot;sample&quot;&gt;(改行)  &lt;li&gt;A&lt;/li&gt;(改行)  &lt;li&gt;B&lt;/li&gt;(改行)  &lt;li&gt;C&lt;/li&gt;(改行)  &lt;li&gt;D&lt;/li&gt;(改行)  &lt;li&gt;E&lt;/li&gt;(改行)  &lt;li&gt;F&lt;/li&gt;(改行)  &lt;li&gt;G&lt;/li&gt;(改行)  &lt;li&gt;H&lt;/li&gt;(改行)  &lt;li&gt;I&lt;/li&gt;(改行)  &lt;li&gt;J&lt;/li&gt;(改行)&lt;/ul&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>.sample li:nth-child(3)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>.sample li:nth-last-child(3)</string>
+            <string>.sample li:nth-child(odd)</string>
+            <string>.sample li:nth-last-child(odd)</string>
+            <string>.sample li:nth-child(even)</string>
+            <string>.sample li:nth-last-child(even)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0018</Alias>
+      <Image>CSS_Basic_0018</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)&lt;ul class=&quot;sample&quot;&gt;(改行)  &lt;li&gt;A&lt;/li&gt;(改行)  &lt;li&gt;B&lt;/li&gt;(改行)  &lt;li&gt;C&lt;/li&gt;(改行)  &lt;li&gt;D&lt;/li&gt;(改行)  &lt;li&gt;E&lt;/li&gt;(改行)  &lt;li&gt;F&lt;/li&gt;(改行)  &lt;li&gt;G&lt;/li&gt;(改行)  &lt;li&gt;H&lt;/li&gt;(改行)  &lt;li&gt;I&lt;/li&gt;(改行)  &lt;li&gt;J&lt;/li&gt;(改行)&lt;/ul&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>.sample li:nth-last-child(3)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>.sample li:nth-child(3)</string>
+            <string>.sample li:nth-child(odd)</string>
+            <string>.sample li:nth-last-child(odd)</string>
+            <string>.sample li:nth-child(even)</string>
+            <string>.sample li:nth-last-child(even)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0019</Alias>
+      <Image>CSS_Basic_0019</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)&lt;ul class=&quot;sample&quot;&gt;(改行)  &lt;li&gt;A&lt;/li&gt;(改行)  &lt;li&gt;B&lt;/li&gt;(改行)  &lt;li&gt;C&lt;/li&gt;(改行)  &lt;li&gt;D&lt;/li&gt;(改行)  &lt;li&gt;E&lt;/li&gt;(改行)  &lt;li&gt;F&lt;/li&gt;(改行)  &lt;li&gt;G&lt;/li&gt;(改行)  &lt;li&gt;H&lt;/li&gt;(改行)  &lt;li&gt;I&lt;/li&gt;(改行)  &lt;li&gt;J&lt;/li&gt;(改行)&lt;/ul&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>.sample li:nth-child(even)</string>
+            <string>.sample li:nth-last-child(odd)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>.sample li:nth-last-child(3)</string>
+            <string>.sample li:nth-child(3)</string>
+            <string>.sample li:nth-child(odd)</string>
+            <string>.sample li:nth-last-child(even)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>CSS_Basic_0020</Alias>
+      <Image>CSS_Basic_0020</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○{(改行)    color: red;(改行)}(改行)(改行)HTML(改行)(改行)&lt;ul class=&quot;sample&quot;&gt;(改行)  &lt;li&gt;A&lt;/li&gt;(改行)  &lt;li&gt;B&lt;/li&gt;(改行)  &lt;li&gt;C&lt;/li&gt;(改行)  &lt;li&gt;D&lt;/li&gt;(改行)  &lt;li&gt;E&lt;/li&gt;(改行)  &lt;li&gt;F&lt;/li&gt;(改行)  &lt;li&gt;G&lt;/li&gt;(改行)  &lt;li&gt;H&lt;/li&gt;(改行)  &lt;li&gt;I&lt;/li&gt;(改行)  &lt;li&gt;J&lt;/li&gt;(改行)&lt;/ul&gt;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>.sample li:nth-child(odd)</string>
+            <string>.sample li:nth-last-child(even)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>.sample li:nth-child(even)</string>
+            <string>.sample li:nth-last-child(odd)</string>
+            <string>.sample li:nth-last-child(3)</string>
+            <string>.sample li:nth-child(3)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>
+            1
+          </PlayerChooseQuantity>
+          <WrongChoiceCount>
+            3
+          </WrongChoiceCount>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

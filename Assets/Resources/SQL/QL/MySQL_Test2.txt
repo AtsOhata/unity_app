@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>MySQL_0021</Alias>
+      <Image>MySQL_0021</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            (tB = PRIMARY KEY)(改行)(改行)CREATE TABLE tA((改行)...(改行)FOREIGN KEY (cB) REFERENCES tB(cB)(改行)...(改行)(改行)INSERT tA VALUES ○○
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>(20, &apos;America&apos;)</string>
+            <string>(30, &apos;Brazil&apos;)</string>
+            <string>(20, &apos;Canada&apos;)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>(20, &apos;England&apos;)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>3</PlayerChooseQuantity>
+          <WrongChoiceCount>1</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0022</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            10 20 200(改行)(改行)SELECT A,B,○○ FROM tA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>*</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>/</string>
+            <string>^</string>
+            <string>&</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0023</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            UPDATE cA ○○
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SET cA=5</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>VALUES (5)</string>
+            <string>VALUE cA=5</string>
+            <string>PUT cA=5</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0024</Alias>
+      <Image>MySQL_0024</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, ○○(改行)FROM tA(改行)GROUP BY cA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SUM(cB)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>AVG(cB)</string>
+            <string>MAX(cB)</string>
+            <string>MIN(cB)</string>
+            <string>COUNT(cB)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0024</Alias>
+      <Image>MySQL_0024</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, ○○(改行)FROM tA(改行)GROUP BY cA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SUM(cB)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>AVG(cB)</string>
+            <string>MAX(cB)</string>
+            <string>MIN(cB)</string>
+            <string>COUNT(cB)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0025</Alias>
+      <Image>MySQL_0025</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, ○○(改行)FROM tA(改行)GROUP BY cA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>AVG(cB)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>SUM(cB)</string>
+            <string>MAX(cB)</string>
+            <string>MIN(cB)</string>
+            <string>COUNT(cB)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0026</Alias>
+      <Image>MySQL_0026</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, ○○(改行)FROM tA(改行)GROUP BY cA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>MAX(cB)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>SUM(cB)</string>
+            <string>AVG(cB)</string>
+            <string>MIN(cB)</string>
+            <string>COUNT(cB)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0027</Alias>
+      <Image>MySQL_0027</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, ○○(改行)FROM tA(改行)GROUP BY cA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>MIN(cB)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>SUM(cB)</string>
+            <string>AVG(cB)</string>
+            <string>MAX(cB)</string>
+            <string>COUNT(cB)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0028</Alias>
+      <Image>MySQL_0028</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, ○○(改行)FROM tA(改行)GROUP BY cA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>COUNT(cB)</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>SUM(cB)</string>
+            <string>AVG(cB)</string>
+            <string>MAX(cB)</string>
+            <string>MIN(cB)</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0029</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <Question>
+            FROM(改行)↓(改行)○○(改行)↓(改行)△△(改行)↓(改行)□□(改行)↓(改行)☆☆(改行)↓(改行)ORDER BY
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectOrder>WHERE,GROUP BY,HAVING,SELECT</CorrectOrder>
+          <DummyChoices></DummyChoices>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0030</Alias>
+      <Image>MySQL_0030</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="ChooseOrder">
+          <Question>
+            SELECT cA, SUM(cB)(改行)FROM tA(改行)GROUP BY ○○(改行)△△ □□
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectOrder>cA,HAVING,SUM(cB) >= 140</CorrectOrder>
+          <DummyChoices>cB,WHERE,cB >= 140</DummyChoices>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0031</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT tA.cA(改行)FROM tA(改行)WHERE ○○
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>tA.cC IN ((改行)SELECT tB.cC FROM tB(改行)WHERE tB.cD IN ('a', 'b'))(改行)GROUP BY tA.cA</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>tA.cC = ((改行)SELECT tB.cC FROM tB(改行)WHERE tB.cD IN ('a', 'b'))</string>
+            <string>tA.cC IN ((改行)SELECT tB.cC FROM tB(改行)WHERE tB.cD IN ('a', 'b'))</string>
+            <string>tA.cC IN ((改行)SELECT tB.cC FROM tB(改行)WHERE tB.cD IN ('a', 'b'))(改行)GROUP BY tA.cD</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0032</Alias>
+      <Image>MySQL_0032</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, cC(改行)FROM tA(改行)○○ tB(改行)ON tA.cB = tB.cB;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>JOIN</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>RIGHT JOIN</string>
+            <string>LEFT JOIN</string>
+            <string>CROSS JOIN</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0033</Alias>
+      <Image>MySQL_0033</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, cC(改行)FROM tA(改行)○○ tB(改行)ON tA.cB = tB.cB;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>LEFT JOIN</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>JOIN</string>
+            <string>RIGHT JOIN</string>
+            <string>CROSS JOIN</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0034</Alias>
+      <Image>MySQL_0034</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT cA, cC(改行)FROM tA(改行)○○ tB(改行)ON tA.cB = tB.cB;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>RIGHT JOIN</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>JOIN</string>
+            <string>LEFT JOIN</string>
+            <string>CROSS JOIN</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0035</Alias>
+      <Image>MySQL_0035</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○ tA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>DROP TABLE</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>DROP</string>
+            <string>DELETE TABLE</string>
+            <string>DELETE</string>
+            <string>TRUNCATE</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0036</Alias>
+      <Image>MySQL_0036</Image>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○ tA;
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>TRUNCATE</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>DROP TABLE</string>
+            <string>DROP</string>
+            <string>DELETE TABLE</string>
+            <string>DELETE</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0037</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○(改行)(改行)↓(改行)(改行)5.6.48
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SELECT VERSION();</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>VERSION();</string>
+            <string>SHOW VERSION();</string>
+            <string>SELECT VERSION;</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0038</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○(改行)(改行)↓(改行)(改行)db_test001
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SELECT DATABASE();</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>DATABASE();</string>
+            <string>DATABASE NAME();</string>
+            <string>SELECT DBINFO();</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0039</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            ○○(改行)(改行)↓(改行)(改行)root@localhost
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>SELECT CURRENT_USER();</string>
+            <string>SELECT USER();</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>SELECT USER_INFO();</string>
+            <string>DATABASE NAME();</string>
+            <string>SELECT DBINFO();</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0040</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            CREATE TABLE tB(改行)cA VARCHAR(20)(改行)CHARACTER SET utf8(改行)COLLATE utf8_general_ci);(改行)INSERT tA VALUES('A');(改行)SELECT ○○ FROM tB;(改行)(改行)↓(改行)(改行)utf8  utf8_general_ci
+          </Question>
+          <QuestionAlignment>MiddleCenter</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>CHARSET(cA), COLLATION(cA)</string>
+          </CorrectChoicePool>
+            <string>COLLATION(cA), CHARSET(cA)</string>
+            <string>CHARINFO(cA), CHARSET(cA)</string>
+            <string>CHAR(cA), CHARSET(cA)</string>
+          <WrongChoicePool>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

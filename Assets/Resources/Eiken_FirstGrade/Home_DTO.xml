@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Home_DTO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Parts>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>ランダムセットＡ</string>
+        <string>ランダムセットＡ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＡ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その１</string>
+        <string>Eiken_FirstGrade_A_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＡ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その２</string>
+        <string>Eiken_FirstGrade_A_2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＡ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その３</string>
+        <string>Eiken_FirstGrade_A_3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＡ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その４</string>
+        <string>Eiken_FirstGrade_A_4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＡ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その５</string>
+        <string>Eiken_FirstGrade_A_5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＡ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ａ その６</string>
+        <string>Eiken_FirstGrade_A_6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>ランダムセットＢ</string>
+        <string>ランダムセットＢ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＢ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その１</string>
+        <string>Eiken_FirstGrade_B_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＢ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その２</string>
+        <string>Eiken_FirstGrade_B_2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＢ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その３</string>
+        <string>Eiken_FirstGrade_B_3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＢ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その４</string>
+        <string>Eiken_FirstGrade_B_4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＢ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その５</string>
+        <string>Eiken_FirstGrade_B_5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＢ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｂ その６</string>
+        <string>Eiken_FirstGrade_B_6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>ランダムセットＣ</string>
+        <string>ランダムセットＣ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＣ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その１</string>
+        <string>Eiken_FirstGrade_C_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＣ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その２</string>
+        <string>Eiken_FirstGrade_C_2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＣ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その３</string>
+        <string>Eiken_FirstGrade_C_3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＣ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その４</string>
+        <string>Eiken_FirstGrade_C_4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＣ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その５</string>
+        <string>Eiken_FirstGrade_C_5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＣ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｃ その６</string>
+        <string>Eiken_FirstGrade_C_6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>ランダムセットＤ</string>
+        <string>ランダムセットＤ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＤ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その１</string>
+        <string>Eiken_FirstGrade_D_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＤ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その２</string>
+        <string>Eiken_FirstGrade_D_2</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＤ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その３</string>
+        <string>Eiken_FirstGrade_D_3</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＤ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その４</string>
+        <string>Eiken_FirstGrade_D_4</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＤ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その５</string>
+        <string>Eiken_FirstGrade_D_5</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＤ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｄ その６</string>
+        <string>Eiken_FirstGrade_D_6</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>ランダムセットＥ</string>
+        <string>ランダムセットＥ</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＥ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｅ その１</string>
+        <string>Eiken_FirstGrade_E_1</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>ランダムセットＥ</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>Ｅ その２</string>
+        <string>Eiken_FirstGrade_E_2</string>
+      </Values>
+    </Part>
+  </Parts>
+</Home_DTO>

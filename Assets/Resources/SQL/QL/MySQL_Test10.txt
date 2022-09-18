@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <Alias>MySQL_0181</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT DATE_FORMAT(&apos;2010-02-03 11:22:33.123000&apos;,GET_FORMAT(DATE,&apos;INTERNAL&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>20100203</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>02.03.2010</string>
+            <string>03.02.2010</string>
+            <string>2010-02-03</string>
+            <string>2010-02-03 11.22.33</string>
+            <string>2010-02-03 11:22:33</string>
+            <string>20100203112233</string>
+            <string>11:22:33 AM</string>
+            <string>112233</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0182</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT DATE_FORMAT(&apos;2010-02-03 11:22:33.123000&apos;,GET_FORMAT(DATETIME,&apos;USA&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>2010-02-03 11.22.33</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>02.03.2010</string>
+            <string>03.02.2010</string>
+            <string>2010-02-03</string>
+            <string>20100203</string>
+            <string>2010-02-03 11:22:33</string>
+            <string>20100203112233</string>
+            <string>11:22:33 AM</string>
+            <string>112233</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0183</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT DATE_FORMAT(&apos;2010-02-03 11:22:33.123000&apos;,GET_FORMAT(DATETIME,&apos;ISO&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>2010-02-03 11:22:33</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>02.03.2010</string>
+            <string>03.02.2010</string>
+            <string>2010-02-03</string>
+            <string>20100203</string>
+            <string>2010-02-03 11.22.33</string>
+            <string>20100203112233</string>
+            <string>11:22:33 AM</string>
+            <string>112233</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0184</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT DATE_FORMAT(&apos;2010-02-03 11:22:33.123000&apos;,GET_FORMAT(DATETIME,&apos;INTERNAL&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>20100203112233</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>02.03.2010</string>
+            <string>03.02.2010</string>
+            <string>2010-02-03</string>
+            <string>20100203</string>
+            <string>2010-02-03 11.22.33</string>
+            <string>2010-02-03 11:22:33</string>
+            <string>11:22:33 AM</string>
+            <string>112233</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0185</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT DATE_FORMAT(&apos;2010-02-03 11:22:33.123000&apos;,GET_FORMAT(TIME,&apos;USA&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>11:22:33 AM</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>02.03.2010</string>
+            <string>03.02.2010</string>
+            <string>2010-02-03</string>
+            <string>20100203</string>
+            <string>2010-02-03 11.22.33</string>
+            <string>2010-02-03 11:22:33</string>
+            <string>20100203112233</string>
+            <string>112233</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0186</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT DATE_FORMAT(&apos;2010-02-03 11:22:33.123000&apos;,GET_FORMAT(TIME,&apos;INTERNAL&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>112233</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>02.03.2010</string>
+            <string>03.02.2010</string>
+            <string>2010-02-03</string>
+            <string>20100203</string>
+            <string>2010-02-03 11.22.33</string>
+            <string>2010-02-03 11:22:33</string>
+            <string>20100203112233</string>
+            <string>11:22:33 AM</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0187</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT LAST_DAY(&apos;2003-12-03&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>2003-12-31</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2003-12-02</string>
+            <string>2003-11-30</string>
+            <string>2003-12-01</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0188</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT MAKEDATE(2002,02,03);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>error</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2002-02-03</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0189</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT MAKEDATE(2002,366);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>2003-01-01</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2002-01-01</string>
+            <string>error</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0190</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT MAKETIME(11,22,33.5);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>11:22:33</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>11:22:33.5</string>
+            <string>11:22:34</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0191</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT PERIOD_ADD(201012, 4);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>201104</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>201412</string>
+            <string>201103</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0192</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT PERIOD_ADD(2010, 4);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>202102</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2014</string>
+            <string>201104</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0193</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT PERIOD_DIFF(201002,201103);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>-13</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>13</string>
+            <string>201009</string>
+            <string>error</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0194</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT PERIOD_DIFF(2002,1912);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>2</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>90</string>
+            <string>-90</string>
+            <string>-2</string>
+            <string>error</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0195</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT QUARTER(&apos;2002-08-08&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>3</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>8</string>
+            <string>2</string>
+            <string>3/4</string>
+            <string>error</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0196</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT SEC_TO_TIME(3666);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>01:01:06</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>03:06:66</string>
+            <string>36:66</string>
+            <string>error</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0197</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT STR_TO_DATE(&apos;01,2,2003&apos;,&apos;%d,%m,%Y&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>2003-02-01</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>error</string>
+            <string>null</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0198</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT STR_TO_DATE(&apos;e2001, May,2&apos;,&apos;%Y,%M,%d&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>null</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>2001-05-02</string>
+            <string>e2001-05-02</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0199</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT STR_TO_DATE(&apos;e2001, May,2&apos;,&apos;e%Y,%M,%d&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>2001-05-02</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>null</string>
+            <string>e2001-05-02</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <Alias>MySQL_0200</Alias>
+      <QuestionBases>
+        <QuestionBase xsi:type="MultipleChoice">
+          <Question>
+            SELECT STR_TO_DATE(&apos;11:22:33&apos;,&apos;%h:%m:%s&apos;);
+          </Question>
+          <QuestionAlignment>MiddleLeft</QuestionAlignment>
+          <CorrectChoicePool>
+            <string>null</string>
+          </CorrectChoicePool>
+          <WrongChoicePool>
+            <string>11:22:33</string>
+            <string>error</string>
+          </WrongChoicePool>
+          <PlayerChooseQuantity>1</PlayerChooseQuantity>
+          <WrongChoiceCount>3</WrongChoiceCount>
+          <Choices/>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

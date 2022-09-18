@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>archer</Question>
+          <Answer>射手</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>hill</Question>
+          <Answer>丘</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>bow</Question>
+          <Answer>弓</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>flee</Question>
+          <Answer>逃げる(過去形fled)</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>at the sight of</Question>
+          <Answer>～を見て</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>with the exception of</Question>
+          <Answer>～を除いて</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>lion</Question>
+          <Answer>ライオン</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>stay</Question>
+          <Answer>留まる</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>challenge</Question>
+          <Answer>挑む</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>fight</Question>
+          <Answer>戦う</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>arrow</Question>
+          <Answer>矢</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>hit</Question>
+          <Answer>当たる</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>messenger</Question>
+          <Answer>使い</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>wait</Question>
+          <Answer>待つ</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>moment</Question>
+          <Answer>瞬間</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>tackle</Question>
+          <Answer>組み伏せる</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>however</Question>
+          <Answer>しかしながら</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>feel</Question>
+          <Answer>感じる(過去形felt)</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>sting</Question>
+          <Answer>刺し傷</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>as ～ as</Question>
+          <Answer>できるだけ～</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>leg</Question>
+          <Answer>脚</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>carry</Question>
+          <Answer>運ぶ</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>fox</Question>
+          <Answer>キツネ</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>coward</Question>
+          <Answer>おくびょう者</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>show</Question>
+          <Answer>見せる</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>reply</Question>
+          <Answer>返事する</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>send</Question>
+          <Answer>送る</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>like</Question>
+          <Answer>～のような</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>terrible</Question>
+          <Answer>恐ろしい</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>fellow</Question>
+          <Answer>やつ</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>deal with</Question>
+          <Answer>対処する</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>wide</Question>
+          <Answer>広い</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>berth</Question>
+          <Answer>寝床</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>damage</Question>
+          <Answer>ダメージ</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+    <QuestionPack>
+      <QuestionBases>
+        <QuestionBase xsi:type="OneQuestionOneAnswer">
+          <Question>at a distance</Question>
+          <Answer>遠くから</Answer>
+        </QuestionBase>
+      </QuestionBases>
+    </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Home_DTO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Parts>
+    <Part>
+      <ScreenName>QB選択</ScreenName>
+      <PartType>QB</PartType>
+      <Values>
+        <string>英検２級</string>
+        <string>２級QL選択</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>２級QL選択</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>頻度Ａ 480語</string>
+        <string>Eiken_SecondGrade_A</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>２級QL選択</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>頻度Ｂ 480語</string>
+        <string>Eiken_SecondGrade_B</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>２級QL選択</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>頻度Ｃ 480語</string>
+        <string>Eiken_SecondGrade_C</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>２級QL選択</ScreenName>
+      <PartType>QL</PartType>
+      <Values>
+        <string>頻度Ｄ 380語</string>
+        <string>Eiken_SecondGrade_D</string>
+      </Values>
+    </Part>
+    <Part>
+      <ScreenName>実績</ScreenName>
+      <PartType>Achievement</PartType>
+      <Values>
+        <string>英検２級単語の合格レベル</string>
+        <string>そろそろ海外旅行いけそうかも</string>
+        <string>Eiken_SecondGrade</string>
+      </Values>
+    </Part>
+  </Parts>
+</Home_DTO>

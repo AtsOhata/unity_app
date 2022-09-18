@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionPacks>
+<QuestionPack>
+          <Alias>чартетный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                чартетный
+              </Question>
+              <CorrectChoicePool>
+                <string>チャーターの</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>放心状態の</string>
+                <string>着実な</string>
+                <string>ジューシーな</string>
+                <string>不機嫌な</string>
+                <string>心を奪う</string>
+                <string>攻撃の</string>
+                <string>可塑性のある</string>
+                <string>人口の多い</string>
+                <string>荘厳な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>маринОванный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                маринОванный
+              </Question>
+              <CorrectChoicePool>
+                <string>漬けた</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>戦略の</string>
+                <string>雄才の</string>
+                <string>荒い</string>
+                <string>多肉質の</string>
+                <string>渡りの</string>
+                <string>鎮痛の</string>
+                <string>スパイシーな</string>
+                <string>滑らかな</string>
+                <string>機知にとんだ</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>сырой</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                сырой
+              </Question>
+              <CorrectChoicePool>
+                <string>生の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>機能的な</string>
+                <string>操縦しやすい</string>
+                <string>勇敢な</string>
+                <string>見張り</string>
+                <string>不安な</string>
+                <string>滑らかな</string>
+                <string>勤勉な</string>
+                <string>有害な</string>
+                <string>スパイシーな</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>пряный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                пряный
+              </Question>
+              <CorrectChoicePool>
+                <string>スパイシーな</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>見張り</string>
+                <string>荘厳な</string>
+                <string>着実な</string>
+                <string>食べれる</string>
+                <string>高出力の</string>
+                <string>快適な</string>
+                <string>おとなしい</string>
+                <string>巻かれた</string>
+                <string>高速の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>спелый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                спелый
+              </Question>
+              <CorrectChoicePool>
+                <string>熟れた</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>滑らかな</string>
+                <string>操縦しやすい</string>
+                <string>嫉妬深い</string>
+                <string>伝染性の</string>
+                <string>見張り</string>
+                <string>高速の</string>
+                <string>気まぐれな</string>
+                <string>渡りの</string>
+                <string>高出力の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>опадАющий</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                опадАющий
+              </Question>
+              <CorrectChoicePool>
+                <string>落葉性の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>愚かな</string>
+                <string>常葉性の</string>
+                <string>きちんとした</string>
+                <string>不正直な</string>
+                <string>炎症性の</string>
+                <string>戦術の</string>
+                <string>食べれない</string>
+                <string>勇敢な</string>
+                <string>食べれる</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>вечнозелёный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                вечнозелёный
+              </Question>
+              <CorrectChoicePool>
+                <string>常葉性の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>多肉質の</string>
+                <string>すばしっこい</string>
+                <string>伝染性の</string>
+                <string>着実な</string>
+                <string>高出力の</string>
+                <string>知的な</string>
+                <string>雄才の</string>
+                <string>熟れた</string>
+                <string>社交的な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>симметрИчный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                симметрИчный
+              </Question>
+              <CorrectChoicePool>
+                <string>対称の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>哲学的な</string>
+                <string>スパイシーな</string>
+                <string>教育的な</string>
+                <string>ジューシーな</string>
+                <string>控えめな</string>
+                <string>戦術の</string>
+                <string>多肉質の</string>
+                <string>滑らかな</string>
+                <string>有害な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>сидЯчий</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                сидЯчий
+              </Question>
+              <CorrectChoicePool>
+                <string>机で行う(仕事)</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>居心地のいい</string>
+                <string>羽毛のある</string>
+                <string>狡猾な</string>
+                <string>陽気な</string>
+                <string>着実な</string>
+                <string>簡潔な</string>
+                <string>攻撃の</string>
+                <string>愚かな</string>
+                <string>家具付きの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>функциональный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                функциональный
+              </Question>
+              <CorrectChoicePool>
+                <string>機能的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>簡潔な</string>
+                <string>食べれる</string>
+                <string>控えめな</string>
+                <string>快適な</string>
+                <string>嫉妬深い</string>
+                <string>教育的な</string>
+                <string>社交的な</string>
+                <string>きちんとした</string>
+                <string>家具付きの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>эластИчный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                эластИчный
+              </Question>
+              <CorrectChoicePool>
+                <string>可塑性のある</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>狡猾な</string>
+                <string>執念深い</string>
+                <string>不安な</string>
+                <string>荒い</string>
+                <string>とても小さい</string>
+                <string>生の</string>
+                <string>家具付きの</string>
+                <string>対称の</string>
+                <string>知的な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>водонепроницАемый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                водонепроницАемый
+              </Question>
+              <CorrectChoicePool>
+                <string>防水の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>多肉質の</string>
+                <string>機能的な</string>
+                <string>炎症性の</string>
+                <string>嫉妬深い</string>
+                <string>荘厳な</string>
+                <string>雄才の</string>
+                <string>見張り</string>
+                <string>ポータブルの</string>
+                <string>きちんとした</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>вредный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                вредный
+              </Question>
+              <CorrectChoicePool>
+                <string>有害な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>食べれない</string>
+                <string>陽気な</string>
+                <string>鎮痛の</string>
+                <string>戦争の</string>
+                <string>対称の</string>
+                <string>見張り</string>
+                <string>人気の</string>
+                <string>ジューシーな</string>
+                <string>熟れた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>крОшечный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                крОшечный
+              </Question>
+              <CorrectChoicePool>
+                <string>とても小さい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>機知にとんだ</string>
+                <string>食べれる</string>
+                <string>チャーターの</string>
+                <string>狡猾な</string>
+                <string>戦術の</string>
+                <string>荒い</string>
+                <string>きちんとした</string>
+                <string>社交的な</string>
+                <string>執念深い</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>зарАзный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                зарАзный
+              </Question>
+              <CorrectChoicePool>
+                <string>伝染性の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>組み立て式の</string>
+                <string>不正直な</string>
+                <string>意志の強い</string>
+                <string>熟れた</string>
+                <string>雄才の</string>
+                <string>荒い</string>
+                <string>防水の</string>
+                <string>簡潔な</string>
+                <string>機能的な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>воспалИтельный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                воспалИтельный
+              </Question>
+              <CorrectChoicePool>
+                <string>炎症性の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>ゼンマイ仕掛けの</string>
+                <string>社交的な</string>
+                <string>着実な</string>
+                <string>気まぐれな</string>
+                <string>密接な</string>
+                <string>執念深い</string>
+                <string>生の</string>
+                <string>快適な</string>
+                <string>不正直な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>обезбОливающий</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                обезбОливающий
+              </Question>
+              <CorrectChoicePool>
+                <string>鎮痛の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>人口の多い</string>
+                <string>哲学的な</string>
+                <string>教育的な</string>
+                <string>組み立て式の</string>
+                <string>見張り</string>
+                <string>不機嫌な</string>
+                <string>炎症性の</string>
+                <string>食べれる</string>
+                <string>ベストセラーの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>уютный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                уютный
+              </Question>
+              <CorrectChoicePool>
+                <string>居心地のいい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>おとなしい</string>
+                <string>可塑性のある</string>
+                <string>簡潔な</string>
+                <string>機能的な</string>
+                <string>見張り</string>
+                <string>荒い</string>
+                <string>渡りの</string>
+                <string>執念深い</string>
+                <string>荘厳な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>комфортАбельный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                комфортАбельный
+              </Question>
+              <CorrectChoicePool>
+                <string>快適な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>熟れた</string>
+                <string>戦術の</string>
+                <string>簡潔な</string>
+                <string>ベストセラーの</string>
+                <string>意志の強い</string>
+                <string>炎症性の</string>
+                <string>おとなしい</string>
+                <string>狡猾な</string>
+                <string>滑らかな</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>меблирОванный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                меблирОванный
+              </Question>
+              <CorrectChoicePool>
+                <string>家具付きの</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>荘厳な</string>
+                <string>防衛の</string>
+                <string>居心地のいい</string>
+                <string>放心状態の</string>
+                <string>荒い</string>
+                <string>熟れた</string>
+                <string>机で行う(仕事)</string>
+                <string>心を奪う</string>
+                <string>勇敢な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>заводнОй</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                заводнОй
+              </Question>
+              <CorrectChoicePool>
+                <string>ゼンマイ仕掛けの</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>戦術の</string>
+                <string>感情的な</string>
+                <string>高出力の</string>
+                <string>机で行う(仕事)</string>
+                <string>熟れた</string>
+                <string>滑らかな</string>
+                <string>食べれる</string>
+                <string>人気の</string>
+                <string>ベストセラーの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>развивАющий</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                развивАющий
+              </Question>
+              <CorrectChoicePool>
+                <string>教育的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>都会の</string>
+                <string>操縦しやすい</string>
+                <string>高速の</string>
+                <string>勇敢な</string>
+                <string>戦術の</string>
+                <string>対称の</string>
+                <string>伝染性の</string>
+                <string>嫉妬深い</string>
+                <string>熟れた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>мясИстый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                мясИстый
+              </Question>
+              <CorrectChoicePool>
+                <string>多肉質の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>生の</string>
+                <string>社交的な</string>
+                <string>教育的な</string>
+                <string>愚かな</string>
+                <string>熟れた</string>
+                <string>頭の回転の鈍い</string>
+                <string>雄才の</string>
+                <string>青白い</string>
+                <string>おとなしい</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>спелый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                спелый
+              </Question>
+              <CorrectChoicePool>
+                <string>熟れた</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>防衛の</string>
+                <string>不安な</string>
+                <string>密接な</string>
+                <string>漬けた</string>
+                <string>勇敢な</string>
+                <string>家具付きの</string>
+                <string>渡りの</string>
+                <string>滑らかな</string>
+                <string>戦争の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>сочный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                сочный
+              </Question>
+              <CorrectChoicePool>
+                <string>ジューシーな</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>荘厳な</string>
+                <string>生の</string>
+                <string>ポータブルの</string>
+                <string>心を奪う</string>
+                <string>鎮痛の</string>
+                <string>伝染性の</string>
+                <string>対称の</string>
+                <string>滑らかな</string>
+                <string>居心地のいい</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>вАхтенный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                вАхтенный
+              </Question>
+              <CorrectChoicePool>
+                <string>見張り</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>勤勉な</string>
+                <string>きちんとした</string>
+                <string>食べれる</string>
+                <string>熟れた</string>
+                <string>荒い</string>
+                <string>高速の</string>
+                <string>不機嫌な</string>
+                <string>意志の強い</string>
+                <string>渡りの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>манёвренный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                манёвренный
+              </Question>
+              <CorrectChoicePool>
+                <string>操縦しやすい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>人懐っこい</string>
+                <string>チャーターの</string>
+                <string>不機嫌な</string>
+                <string>高速の</string>
+                <string>着実な</string>
+                <string>毛深い</string>
+                <string>ポータブルの</string>
+                <string>ベストセラーの</string>
+                <string>放心状態の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>съедОбный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                съедОбный
+              </Question>
+              <CorrectChoicePool>
+                <string>食べれる</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>放心状態の</string>
+                <string>きちんとした</string>
+                <string>常葉性の</string>
+                <string>快適な</string>
+                <string>執念深い</string>
+                <string>漬けた</string>
+                <string>雄才の</string>
+                <string>知的な</string>
+                <string>落葉性の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>небъедобный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                небъедобный
+              </Question>
+              <CorrectChoicePool>
+                <string>食べれない</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>高出力の</string>
+                <string>渡りの</string>
+                <string>気まぐれな</string>
+                <string>人懐っこい</string>
+                <string>戦略の</string>
+                <string>感情的な</string>
+                <string>執念深い</string>
+                <string>スパイシーな</string>
+                <string>攻撃の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>обеспокОенный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                обеспокОенный
+              </Question>
+              <CorrectChoicePool>
+                <string>不安な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>荒い</string>
+                <string>食べれる</string>
+                <string>可塑性のある</string>
+                <string>防水の</string>
+                <string>社交的な</string>
+                <string>滑らかな</string>
+                <string>漬けた</string>
+                <string>不機嫌な</string>
+                <string>巻かれた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>эмоционАльный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                эмоционАльный
+              </Question>
+              <CorrectChoicePool>
+                <string>感情的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>勤勉な</string>
+                <string>嫉妬深い</string>
+                <string>熟れた</string>
+                <string>不安な</string>
+                <string>荒い</string>
+                <string>着実な</string>
+                <string>ポータブルの</string>
+                <string>食べれない</string>
+                <string>生の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>сплочённый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                сплочённый
+              </Question>
+              <CorrectChoicePool>
+                <string>密接な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>居心地のいい</string>
+                <string>常葉性の</string>
+                <string>気まぐれな</string>
+                <string>愚かな</string>
+                <string>チャーターの</string>
+                <string>意志の強い</string>
+                <string>戦術の</string>
+                <string>漬けた</string>
+                <string>不安な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>бледный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                бледный
+              </Question>
+              <CorrectChoicePool>
+                <string>青白い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>勇敢な</string>
+                <string>人気の</string>
+                <string>感情的な</string>
+                <string>都会の</string>
+                <string>熟れた</string>
+                <string>見張り</string>
+                <string>知的な</string>
+                <string>防衛の</string>
+                <string>機知にとんだ</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>гладкий</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                гладкий
+              </Question>
+              <CorrectChoicePool>
+                <string>滑らかな</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>不安な</string>
+                <string>チャーターの</string>
+                <string>知的な</string>
+                <string>荘厳な</string>
+                <string>都会の</string>
+                <string>雄才の</string>
+                <string>とても小さい</string>
+                <string>密接な</string>
+                <string>有害な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>лохмАтый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                лохмАтый
+              </Question>
+              <CorrectChoicePool>
+                <string>毛深い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>快適な</string>
+                <string>不機嫌な</string>
+                <string>高速の</string>
+                <string>人口の多い</string>
+                <string>防衛の</string>
+                <string>陽気な</string>
+                <string>ゼンマイ仕掛けの</string>
+                <string>生の</string>
+                <string>防水の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>лаконИчный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                лаконИчный
+              </Question>
+              <CorrectChoicePool>
+                <string>簡潔な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>攻撃の</string>
+                <string>毛深い</string>
+                <string>戦術の</string>
+                <string>感情的な</string>
+                <string>不安な</string>
+                <string>愚かな</string>
+                <string>チャーターの</string>
+                <string>鎮痛の</string>
+                <string>家具付きの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>сборный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                сборный
+              </Question>
+              <CorrectChoicePool>
+                <string>組み立て式の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>スパイシーな</string>
+                <string>家具付きの</string>
+                <string>知的な</string>
+                <string>陽気な</string>
+                <string>不機嫌な</string>
+                <string>炎症性の</string>
+                <string>漬けた</string>
+                <string>青白い</string>
+                <string>有害な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>высокоскоростнОй</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                высокоскоростнОй
+              </Question>
+              <CorrectChoicePool>
+                <string>高速の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>伝染性の</string>
+                <string>哲学的な</string>
+                <string>教育的な</string>
+                <string>人気の</string>
+                <string>心を奪う</string>
+                <string>社交的な</string>
+                <string>滑らかな</string>
+                <string>すばしっこい</string>
+                <string>勤勉な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>портатИвный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                портатИвный
+              </Question>
+              <CorrectChoicePool>
+                <string>ポータブルの</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>人懐っこい</string>
+                <string>落葉性の</string>
+                <string>熟れた</string>
+                <string>執念深い</string>
+                <string>心を奪う</string>
+                <string>意志の強い</string>
+                <string>防衛の</string>
+                <string>チャーターの</string>
+                <string>簡潔な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>многолюдный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                многолюдный
+              </Question>
+              <CorrectChoicePool>
+                <string>人口の多い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>控えめな</string>
+                <string>執念深い</string>
+                <string>雄才の</string>
+                <string>攻撃の</string>
+                <string>有害な</string>
+                <string>机で行う(仕事)</string>
+                <string>戦術の</string>
+                <string>高出力の</string>
+                <string>感情的な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>городской</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                городской
+              </Question>
+              <CorrectChoicePool>
+                <string>都会の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>不正直な</string>
+                <string>ジューシーな</string>
+                <string>高出力の</string>
+                <string>防水の</string>
+                <string>机で行う(仕事)</string>
+                <string>多肉質の</string>
+                <string>羽毛のある</string>
+                <string>きちんとした</string>
+                <string>鎮痛の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>дружелюбный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                дружелюбный
+              </Question>
+              <CorrectChoicePool>
+                <string>人懐っこい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>荒い</string>
+                <string>不機嫌な</string>
+                <string>ジューシーな</string>
+                <string>機能的な</string>
+                <string>着実な</string>
+                <string>戦略の</string>
+                <string>伝染性の</string>
+                <string>スパイシーな</string>
+                <string>対称の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>хрАбрый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                хрАбрый
+              </Question>
+              <CorrectChoicePool>
+                <string>勇敢な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>ゼンマイ仕掛けの</string>
+                <string>漬けた</string>
+                <string>戦争の</string>
+                <string>きちんとした</string>
+                <string>青白い</string>
+                <string>社交的な</string>
+                <string>渡りの</string>
+                <string>机で行う(仕事)</string>
+                <string>不機嫌な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>жизнерАдостный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                жизнерАдостный
+              </Question>
+              <CorrectChoicePool>
+                <string>陽気な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>ベストセラーの</string>
+                <string>嫉妬深い</string>
+                <string>家具付きの</string>
+                <string>愚かな</string>
+                <string>きちんとした</string>
+                <string>着実な</string>
+                <string>不安な</string>
+                <string>戦争の</string>
+                <string>頭の回転の鈍い</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>одарённый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                одарённый
+              </Question>
+              <CorrectChoicePool>
+                <string>雄才の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>高出力の</string>
+                <string>都会の</string>
+                <string>防衛の</string>
+                <string>不安な</string>
+                <string>ベストセラーの</string>
+                <string>狡猾な</string>
+                <string>哲学的な</string>
+                <string>人口の多い</string>
+                <string>毛深い</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>трудолюбивый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                трудолюбивый
+              </Question>
+              <CorrectChoicePool>
+                <string>勤勉な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>操縦しやすい</string>
+                <string>毛深い</string>
+                <string>機能的な</string>
+                <string>ベストセラーの</string>
+                <string>渡りの</string>
+                <string>意志の強い</string>
+                <string>おとなしい</string>
+                <string>熟れた</string>
+                <string>高速の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>скромный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                скромный
+              </Question>
+              <CorrectChoicePool>
+                <string>控えめな</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>炎症性の</string>
+                <string>人懐っこい</string>
+                <string>すばしっこい</string>
+                <string>家具付きの</string>
+                <string>毛深い</string>
+                <string>おとなしい</string>
+                <string>人気の</string>
+                <string>青白い</string>
+                <string>スパイシーな</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>аккуратный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                аккуратный
+              </Question>
+              <CorrectChoicePool>
+                <string>きちんとした</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>都会の</string>
+                <string>控えめな</string>
+                <string>陽気な</string>
+                <string>チャーターの</string>
+                <string>不安な</string>
+                <string>漬けた</string>
+                <string>青白い</string>
+                <string>機能的な</string>
+                <string>家具付きの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>спокойный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                спокойный
+              </Question>
+              <CorrectChoicePool>
+                <string>おとなしい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>有害な</string>
+                <string>巻かれた</string>
+                <string>居心地のいい</string>
+                <string>教育的な</string>
+                <string>荒い</string>
+                <string>高出力の</string>
+                <string>炎症性の</string>
+                <string>雄才の</string>
+                <string>狡猾な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>нахОдчивый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                нахОдчивый
+              </Question>
+              <CorrectChoicePool>
+                <string>機知にとんだ</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>戦術の</string>
+                <string>哲学的な</string>
+                <string>おとなしい</string>
+                <string>可塑性のある</string>
+                <string>勇敢な</string>
+                <string>愚かな</string>
+                <string>とても小さい</string>
+                <string>簡潔な</string>
+                <string>巻かれた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>общительный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                общительный
+              </Question>
+              <CorrectChoicePool>
+                <string>社交的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>狡猾な</string>
+                <string>落葉性の</string>
+                <string>食べれない</string>
+                <string>人懐っこい</string>
+                <string>青白い</string>
+                <string>着実な</string>
+                <string>操縦しやすい</string>
+                <string>高速の</string>
+                <string>巻かれた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>уравновЕшенный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                уравновЕшенный
+              </Question>
+              <CorrectChoicePool>
+                <string>着実な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>見張り</string>
+                <string>熟れた</string>
+                <string>対称の</string>
+                <string>滑らかな</string>
+                <string>傲慢な</string>
+                <string>簡潔な</string>
+                <string>とても小さい</string>
+                <string>不正直な</string>
+                <string>高出力の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>волевОй</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                волевОй
+              </Question>
+              <CorrectChoicePool>
+                <string>意志の強い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>荒い</string>
+                <string>攻撃の</string>
+                <string>スパイシーな</string>
+                <string>渡りの</string>
+                <string>高速の</string>
+                <string>快適な</string>
+                <string>滑らかな</string>
+                <string>鎮痛の</string>
+                <string>巻かれた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>рассЕянный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                рассЕянный
+              </Question>
+              <CorrectChoicePool>
+                <string>放心状態の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>簡潔な</string>
+                <string>チャーターの</string>
+                <string>多肉質の</string>
+                <string>鎮痛の</string>
+                <string>控えめな</string>
+                <string>人懐っこい</string>
+                <string>とても小さい</string>
+                <string>ベストセラーの</string>
+                <string>感情的な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>капрИзный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                капрИзный
+              </Question>
+              <CorrectChoicePool>
+                <string>気まぐれな</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>ベストセラーの</string>
+                <string>着実な</string>
+                <string>毛深い</string>
+                <string>チャーターの</string>
+                <string>ジューシーな</string>
+                <string>家具付きの</string>
+                <string>社交的な</string>
+                <string>勇敢な</string>
+                <string>控えめな</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>ковАрный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                ковАрный
+              </Question>
+              <CorrectChoicePool>
+                <string>狡猾な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>常葉性の</string>
+                <string>炎症性の</string>
+                <string>不安な</string>
+                <string>生の</string>
+                <string>ゼンマイ仕掛けの</string>
+                <string>高出力の</string>
+                <string>着実な</string>
+                <string>簡潔な</string>
+                <string>多肉質の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>нечестный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                нечестный
+              </Question>
+              <CorrectChoicePool>
+                <string>不正直な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>戦術の</string>
+                <string>毛深い</string>
+                <string>高速の</string>
+                <string>すばしっこい</string>
+                <string>生の</string>
+                <string>羽毛のある</string>
+                <string>人懐っこい</string>
+                <string>見張り</string>
+                <string>家具付きの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>завИстливый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                завИстливый
+              </Question>
+              <CorrectChoicePool>
+                <string>嫉妬深い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>着実な</string>
+                <string>執念深い</string>
+                <string>巻かれた</string>
+                <string>熟れた</string>
+                <string>操縦しやすい</string>
+                <string>攻撃の</string>
+                <string>傲慢な</string>
+                <string>多肉質の</string>
+                <string>哲学的な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>дурак/дура</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                дурак/дура
+              </Question>
+              <CorrectChoicePool>
+                <string>愚かな</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>機能的な</string>
+                <string>嫉妬深い</string>
+                <string>荒い</string>
+                <string>着実な</string>
+                <string>ゼンマイ仕掛けの</string>
+                <string>戦争の</string>
+                <string>巻かれた</string>
+                <string>きちんとした</string>
+                <string>心を奪う</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>ворчлИвый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                ворчлИвый
+              </Question>
+              <CorrectChoicePool>
+                <string>不機嫌な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>攻撃の</string>
+                <string>不安な</string>
+                <string>対称の</string>
+                <string>ベストセラーの</string>
+                <string>鎮痛の</string>
+                <string>チャーターの</string>
+                <string>陽気な</string>
+                <string>滑らかな</string>
+                <string>頭の回転の鈍い</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>чванлИвый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                чванлИвый
+              </Question>
+              <CorrectChoicePool>
+                <string>傲慢な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>チャーターの</string>
+                <string>気まぐれな</string>
+                <string>頭の回転の鈍い</string>
+                <string>防衛の</string>
+                <string>スパイシーな</string>
+                <string>きちんとした</string>
+                <string>防水の</string>
+                <string>戦争の</string>
+                <string>不安な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>грубый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                грубый
+              </Question>
+              <CorrectChoicePool>
+                <string>荒い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>戦争の</string>
+                <string>巻かれた</string>
+                <string>勤勉な</string>
+                <string>とても小さい</string>
+                <string>控えめな</string>
+                <string>見張り</string>
+                <string>嫉妬深い</string>
+                <string>家具付きの</string>
+                <string>執念深い</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>тугодУмный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                тугодУмный
+              </Question>
+              <CorrectChoicePool>
+                <string>頭の回転の鈍い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>高速の</string>
+                <string>社交的な</string>
+                <string>見張り</string>
+                <string>人懐っこい</string>
+                <string>教育的な</string>
+                <string>多肉質の</string>
+                <string>狡猾な</string>
+                <string>常葉性の</string>
+                <string>対称の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>мстИтельный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                мстИтельный
+              </Question>
+              <CorrectChoicePool>
+                <string>執念深い</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>操縦しやすい</string>
+                <string>毛深い</string>
+                <string>都会の</string>
+                <string>嫉妬深い</string>
+                <string>有害な</string>
+                <string>食べれない</string>
+                <string>頭の回転の鈍い</string>
+                <string>熟れた</string>
+                <string>機能的な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>захватывающий</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                захватывающий
+              </Question>
+              <CorrectChoicePool>
+                <string>心を奪う</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>戦術の</string>
+                <string>陽気な</string>
+                <string>着実な</string>
+                <string>巻かれた</string>
+                <string>滑らかな</string>
+                <string>鎮痛の</string>
+                <string>勇敢な</string>
+                <string>意志の強い</string>
+                <string>熟れた</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>ходкий (в плане продаж)</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                ходкий (в плане продаж)
+              </Question>
+              <CorrectChoicePool>
+                <string>ベストセラーの</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>哲学的な</string>
+                <string>伝染性の</string>
+                <string>毛深い</string>
+                <string>渡りの</string>
+                <string>感情的な</string>
+                <string>食べれない</string>
+                <string>ゼンマイ仕掛けの</string>
+                <string>気まぐれな</string>
+                <string>頭の回転の鈍い</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>интеллектуАльный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                интеллектуАльный
+              </Question>
+              <CorrectChoicePool>
+                <string>知的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>巻かれた</string>
+                <string>熟れた</string>
+                <string>渡りの</string>
+                <string>生の</string>
+                <string>勇敢な</string>
+                <string>勤勉な</string>
+                <string>可塑性のある</string>
+                <string>放心状態の</string>
+                <string>羽毛のある</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>филосОфский</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                филосОфский
+              </Question>
+              <CorrectChoicePool>
+                <string>哲学的な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>チャーターの</string>
+                <string>戦争の</string>
+                <string>防衛の</string>
+                <string>戦術の</string>
+                <string>炎症性の</string>
+                <string>気まぐれな</string>
+                <string>高速の</string>
+                <string>対称の</string>
+                <string>社交的な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>популярный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                популярный
+              </Question>
+              <CorrectChoicePool>
+                <string>人気の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>羽毛のある</string>
+                <string>常葉性の</string>
+                <string>とても小さい</string>
+                <string>簡潔な</string>
+                <string>鎮痛の</string>
+                <string>スパイシーな</string>
+                <string>おとなしい</string>
+                <string>有害な</string>
+                <string>チャーターの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>пернАтый</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                пернАтый
+              </Question>
+              <CorrectChoicePool>
+                <string>羽毛のある</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>着実な</string>
+                <string>操縦しやすい</string>
+                <string>心を奪う</string>
+                <string>机で行う(仕事)</string>
+                <string>対称の</string>
+                <string>防衛の</string>
+                <string>とても小さい</string>
+                <string>熟れた</string>
+                <string>可塑性のある</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>перелётный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                перелётный
+              </Question>
+              <CorrectChoicePool>
+                <string>渡りの</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>都会の</string>
+                <string>機能的な</string>
+                <string>食べれる</string>
+                <string>多肉質の</string>
+                <string>陽気な</string>
+                <string>放心状態の</string>
+                <string>意志の強い</string>
+                <string>荘厳な</string>
+                <string>人気の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>юркий</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                юркий
+              </Question>
+              <CorrectChoicePool>
+                <string>すばしっこい</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>戦術の</string>
+                <string>荒い</string>
+                <string>戦争の</string>
+                <string>熟れた</string>
+                <string>狡猾な</string>
+                <string>着実な</string>
+                <string>知的な</string>
+                <string>不正直な</string>
+                <string>愚かな</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>вьЮщийся</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                вьЮщийся
+              </Question>
+              <CorrectChoicePool>
+                <string>巻かれた</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>社交的な</string>
+                <string>放心状態の</string>
+                <string>戦術の</string>
+                <string>荘厳な</string>
+                <string>滑らかな</string>
+                <string>可塑性のある</string>
+                <string>漬けた</string>
+                <string>陽気な</string>
+                <string>鎮痛の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>скоростнОй</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                скоростнОй
+              </Question>
+              <CorrectChoicePool>
+                <string>高速の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>羽毛のある</string>
+                <string>スパイシーな</string>
+                <string>漬けた</string>
+                <string>社交的な</string>
+                <string>執念深い</string>
+                <string>おとなしい</string>
+                <string>勤勉な</string>
+                <string>熟れた</string>
+                <string>きちんとした</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>мощный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                мощный
+              </Question>
+              <CorrectChoicePool>
+                <string>高出力の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>陽気な</string>
+                <string>人懐っこい</string>
+                <string>執念深い</string>
+                <string>教育的な</string>
+                <string>嫉妬深い</string>
+                <string>荒い</string>
+                <string>とても小さい</string>
+                <string>ゼンマイ仕掛けの</string>
+                <string>狡猾な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>величественный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                величественный
+              </Question>
+              <CorrectChoicePool>
+                <string>荘厳な</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>スパイシーな</string>
+                <string>機能的な</string>
+                <string>高速の</string>
+                <string>多肉質の</string>
+                <string>ゼンマイ仕掛けの</string>
+                <string>簡潔な</string>
+                <string>毛深い</string>
+                <string>都会の</string>
+                <string>伝染性の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>оборонИтельный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                оборонИтельный
+              </Question>
+              <CorrectChoicePool>
+                <string>防衛の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>高出力の</string>
+                <string>有害な</string>
+                <string>勇敢な</string>
+                <string>可塑性のある</string>
+                <string>簡潔な</string>
+                <string>常葉性の</string>
+                <string>ポータブルの</string>
+                <string>心を奪う</string>
+                <string>攻撃の</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>военный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                военный
+              </Question>
+              <CorrectChoicePool>
+                <string>戦争の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>可塑性のある</string>
+                <string>とても小さい</string>
+                <string>狡猾な</string>
+                <string>機能的な</string>
+                <string>食べれない</string>
+                <string>快適な</string>
+                <string>居心地のいい</string>
+                <string>哲学的な</string>
+                <string>密接な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>наступАтельный</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                наступАтельный
+              </Question>
+              <CorrectChoicePool>
+                <string>攻撃の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>熟れた</string>
+                <string>伝染性の</string>
+                <string>ゼンマイ仕掛けの</string>
+                <string>すばしっこい</string>
+                <string>操縦しやすい</string>
+                <string>人口の多い</string>
+                <string>常葉性の</string>
+                <string>密接な</string>
+                <string>きちんとした</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>стратегический</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                стратегический
+              </Question>
+              <CorrectChoicePool>
+                <string>戦略の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>心を奪う</string>
+                <string>きちんとした</string>
+                <string>鎮痛の</string>
+                <string>見張り</string>
+                <string>対称の</string>
+                <string>感情的な</string>
+                <string>不安な</string>
+                <string>簡潔な</string>
+                <string>チャーターの</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+<QuestionPack>
+          <Alias>тактический</Alias>
+          <QuestionBases>
+            <QuestionBase xsi:type="MultipleChoice">
+              <Question>
+                тактический
+              </Question>
+              <CorrectChoicePool>
+                <string>戦術の</string>
+              </CorrectChoicePool>
+              <WrongChoicePool>
+                <string>密接な</string>
+                <string>食べれない</string>
+                <string>炎症性の</string>
+                <string>快適な</string>
+                <string>攻撃の</string>
+                <string>鎮痛の</string>
+                <string>機能的な</string>
+                <string>人懐っこい</string>
+                <string>不安な</string>
+              </WrongChoicePool>
+              <CorrectChoiceCount>
+1
+              </CorrectChoiceCount>
+              <WrongChoiceCount>
+3
+              </WrongChoiceCount>
+              <Choices/>
+            </QuestionBase>
+          </QuestionBases>
+        </QuestionPack>
+  </QuestionPacks>
+</QuestionSet>
